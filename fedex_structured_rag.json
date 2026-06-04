@@ -1,0 +1,386 @@
+[
+  {
+    "intent": "shipping_services_overview",
+    "patterns": [
+      "What shipping services does FedEx offer?",
+      "FedEx shipping options",
+      "Domestic shipping",
+      "International shipping",
+      "Express delivery",
+      "Freight services",
+      "Shipping service types"
+    ],
+    "responses": [
+      "FedEx provides a broad range of shipping services designed for domestic, international, express, freight, and e-commerce logistics operations."
+    ]
+  },
+
+  {
+    "intent": "package_acceptance_policy",
+    "patterns": [
+      "Can FedEx accept my package?",
+      "Package acceptance rules",
+      "Shipment eligibility",
+      "Packaging requirements",
+      "FedEx packaging policy"
+    ],
+    "responses": [
+      "Customers are responsible for ensuring that packages submitted to FedEx meet packaging, labeling, documentation, and service eligibility requirements."
+    ]
+  },
+
+  {
+    "intent": "restricted_and_prohibited_items",
+    "patterns": [
+      "What items cannot be shipped?",
+      "Restricted items",
+      "Prohibited goods",
+      "Dangerous goods shipping",
+      "FedEx restricted shipments"
+    ],
+    "responses": [
+      "Certain items are prohibited or restricted from transport due to safety, legal, customs, aviation, or regulatory requirements."
+    ]
+  },
+
+  {
+    "intent": "tracking_and_delivery_updates",
+    "patterns": [
+      "Where is my package?",
+      "Track my shipment",
+      "Shipment tracking",
+      "Delivery status",
+      "Package updates",
+      "Track package",
+      "Shipment status"
+    ],
+    "responses": [
+      "FedEx provides shipment tracking capabilities that allow customers to monitor package movement throughout the shipping lifecycle."
+    ]
+  },
+
+  {
+    "intent": "delivery_attempts_and_failed_delivery",
+    "patterns": [
+      "Why was my delivery missed?",
+      "Failed delivery",
+      "Delivery attempt failed",
+      "Missed package",
+      "Package not delivered"
+    ],
+    "responses": [
+      "If a delivery cannot be completed, FedEx may attempt redelivery, hold the package, or return it to sender depending on service policies."
+    ]
+  },
+
+  {
+    "intent": "claims_and_damaged_shipments",
+    "patterns": [
+      "My package was damaged",
+      "File a claim",
+      "Damaged shipment",
+      "Missing package claim",
+      "Shipment issue"
+    ],
+    "responses": [
+      "Customers may submit claims for lost, damaged, or delayed shipments subject to FedEx investigation and service agreement terms."
+    ]
+  },
+
+  {
+    "intent": "billing_and_payment_services",
+    "patterns": [
+      "Billing issue",
+      "Payment failed",
+      "FedEx invoice",
+      "Shipping charges",
+      "Billing support",
+      "Payment methods"
+    ],
+    "responses": [
+      "FedEx provides billing, invoicing, payment processing, and account charge management services for eligible customers."
+    ]
+  },
+
+  {
+    "intent": "refund_and_money_back_policy",
+    "patterns": [
+      "Can I get a refund?",
+      "Refund policy",
+      "Money back guarantee",
+      "Shipment refund",
+      "Late delivery refund"
+    ],
+    "responses": [
+      "Refund eligibility depends on service type, shipment circumstances, delivery performance, and FedEx service agreement policies."
+    ]
+  },
+
+  {
+    "intent": "pickup_and_dropoff_services",
+    "patterns": [
+      "Schedule a pickup",
+      "FedEx pickup",
+      "Drop off package",
+      "Pickup request",
+      "Nearest FedEx location",
+      "Package drop-off"
+    ],
+    "responses": [
+      "FedEx offers pickup scheduling, drop-off locations, retail service points, and shipment acceptance options depending on region and service availability."
+    ]
+  },
+
+  { 
+    "intent": "international_shipping_and_customs",
+    "patterns": [
+      "International shipping",
+      "Customs clearance",
+      "Ship overseas",
+      "Import export shipping",
+      "Cross-border shipping",
+      "Customs duties"
+    ],
+    "responses": [
+      "FedEx international shipping services may involve customs documentation, import/export regulations, duties, taxes, and destination country restrictions."
+    ]
+  },
+
+  {
+    "intent": "delivery_signature_and_recipient_requirements",
+    "patterns": [
+      "Signature required delivery",
+      "Recipient requirements",
+      "Who can receive my package?",
+      "Package signature",
+      "Delivery confirmation"
+    ],
+    "responses": [
+      "Certain shipments may require recipient signatures, identification checks, or delivery confirmation depending on service level and sender instructions."
+    ]
+  },
+
+  {
+    "intent": "privacy_and_customer_data_protection",
+    "patterns": [
+      "How does FedEx use my data?",
+      "Privacy policy",
+      "Customer data protection",
+      "Personal information security",
+      "Data usage"
+    ],
+    "responses": [
+      "FedEx may collect, process, store, and protect customer information in accordance with privacy laws, security requirements, and operational service needs."
+    ]
+  },
+
+  {
+    "intent": "account_management_and_login_support",
+    "patterns": [
+      "FedEx login issue",
+      "Account access problem",
+      "Forgot password",
+      "Manage FedEx account",
+      "Update my account"
+    ],
+    "responses": [
+      "Customers may use FedEx account services for shipment management, billing access, address storage, preferences, and online support functions."
+    ]
+  },
+
+  {
+    "intent": "address_correction_and_delivery_change",
+    "patterns": [
+      "Change delivery address",
+      "Wrong shipping address",
+      "Address correction",
+      "Update package address",
+      "Redirect shipment"
+    ],
+    "responses": [
+      "Address correction or shipment rerouting may be available depending on shipment status, service type, destination rules, and applicable fees."
+    ]
+  },
+
+  {
+    "intent": "returns_and_reverse_logistics",
+    "patterns": [
+      "Return a package",
+      "Reverse logistics",
+      "FedEx returns",
+      "Create return label",
+      "Return shipment"
+    ],
+    "responses": [
+      "FedEx offers return shipping services and reverse logistics solutions that allow eligible shipments to be returned using approved return processes."
+    ]
+  },
+
+  {
+    "intent": "service_delays_and_operational_disruptions",
+    "patterns": [
+      "Why is my shipment delayed?",
+      "Delivery delay",
+      "Operational disruption",
+      "Package late",
+      "Shipping delay"
+    ],
+    "responses": [
+      "Shipment delays may occur due to weather conditions, customs inspections, operational disruptions, transportation issues, or regional service interruptions."
+    ]
+  },
+
+  {
+    "intent": "customer_support_and_contact_services",
+    "patterns": [
+      "Contact FedEx",
+      "Customer support",
+      "Talk to FedEx representative",
+      "FedEx help",
+      "Support center"
+    ],
+    "responses": [
+      "FedEx customer support services may assist with shipment tracking, claims, billing issues, delivery concerns, and account-related questions."
+    ]
+  },
+
+  {
+    "intent": "address_accuracy_and_delivery_information",
+    "patterns": [
+      "Wrong address shipment",
+      "Address accuracy",
+      "Delivery instructions",
+      "Shipping address issue",
+      "Recipient address problem"
+    ],
+    "responses": [
+      "Customers must provide accurate names, delivery addresses, postal codes, contact details, and shipping instructions to avoid shipment delays or delivery failures."
+    ]
+  },
+
+ {
+    "intent": "package_handling_and_safety_standards",
+    "patterns": [
+      "How does FedEx handle packages?",
+      "Package safety",
+      "Shipment handling",
+      "Transport safety",
+      "Package care standards"
+    ],
+    "responses": [
+      "FedEx uses operational handling procedures designed to reduce package damage, ensure transportation safety, and maintain shipment integrity."
+    ]
+  },
+
+  {
+    "intent": "digital_platforms_and_mobile_services",
+    "patterns": [
+      "FedEx mobile app",
+      "Online shipping tools",
+      "Digital services",
+      "FedEx website features",
+      "Track online"
+    ],
+    "responses": [
+      "FedEx digital platforms allow customers to create shipments, print labels, monitor tracking, manage addresses, review invoices, and access support services."
+    ]
+  },
+
+  {
+    "intent": "fraud_prevention_and_security_monitoring",
+    "patterns": [
+      "Fraud detection",
+      "Account security",
+      "Suspicious shipment",
+      "Payment fraud",
+      "Security monitoring"
+    ],
+    "responses": [
+      "FedEx may use fraud detection systems, shipment screening processes, payment verification controls, and account monitoring tools to identify suspicious activities."
+    ]
+  },
+
+  {
+    "intent": "business_shipping_solutions",
+    "patterns": [
+      "Business shipping",
+      "Enterprise logistics",
+      "Commercial shipping",
+      "Bulk shipments",
+      "Supply chain support"
+    ],
+    "responses": [
+      "FedEx offers business shipping solutions including bulk shipments, scheduled pickups, freight coordination, warehousing integration, and enterprise logistics tools."
+    ]
+  },
+
+  {
+    "intent": "environmental_and_sustainability_practices",
+    "patterns": [
+      "FedEx sustainability",
+      "Environmental practices",
+      "Green shipping",
+      "Carbon emissions",
+      "Eco-friendly logistics"
+    ],
+    "responses": [
+      "FedEx may implement sustainability initiatives focused on fuel efficiency, route optimization, emissions management, packaging reduction, and responsible logistics practices."
+    ]
+  },
+
+  {
+    "intent": "employee_conduct_and_operational_compliance",
+    "patterns": [
+      "FedEx employee conduct",
+      "Compliance standards",
+      "Operational ethics",
+      "Staff behavior rules",
+      "Company compliance"
+    ],
+    "responses": [
+      "FedEx employees are expected to follow safety procedures, customer service standards, security rules, ethical conduct requirements, and operational compliance policies."
+    ]
+  },
+
+  {
+    "intent": "driver_safety_and_operational_risk_management",
+    "patterns": [
+      "Driver safety",
+      "Vehicle monitoring",
+      "GPS tracking",
+      "Operational risk management",
+      "Safety audits"
+    ],
+    "responses": [
+      "Driver activities may be monitored through GPS tracking, telematics systems, route management tools, and operational safety audits."
+    ]
+  },
+
+  {
+    "intent": "dispute_resolution_and_liability",
+    "patterns": [
+      "Shipment dispute",
+      "Billing dispute",
+      "Liability claim",
+      "Compensation issue",
+      "Dispute resolution"
+    ],
+    "responses": [
+      "FedEx may investigate shipment disputes, damaged packages, delivery issues, and billing concerns subject to liability limits and service agreement policies."
+    ]
+  },
+
+  {
+    "intent": "terms_and_conditions",
+    "patterns": [
+      "FedEx terms and conditions",
+      "Shipping policy",
+      "Legal service agreement",
+      "Customer obligations",
+      "Service rules"
+    ],
+    "responses": [
+      "By using FedEx services, customers agree to applicable shipping policies, payment rules, operational limitations, privacy practices, and legal service conditions."
+    ]
+  }
+]
