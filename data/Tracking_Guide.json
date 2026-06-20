@@ -1,0 +1,231 @@
+{
+  "document_title": "Tracking Guide",
+  "document_type": "operational_guide",
+  "source": "Tracking_Guide.docx",
+  "language": "en",
+  "created_at": "2024-01-01",
+  "sections": [
+    {
+      "section_id": "TG-S01",
+      "section_title": "Introduction to Shipment Tracking",
+      "section_summary": "Overview of FedEx shipment tracking, its purpose, and value for customers and businesses.",
+      "keywords": ["shipment tracking", "tracking number", "FedEx", "logistics visibility", "delivery status"],
+      "content": [
+        {
+          "content_id": "TG-S01-C01",
+          "content_type": "paragraph",
+          "heading": "What Is Shipment Tracking",
+          "paragraph": "Shipment tracking is one of the most important services provided by modern logistics companies. It enables customers, businesses, and supply chain managers to monitor the movement of packages from the moment a shipment is created until it reaches its final destination. Tracking improves transparency, enhances customer confidence, and allows organizations to manage deliveries more effectively. FedEx provides shipment tracking capabilities for most of its transportation services, with every shipment assigned a unique tracking number that serves as its identifier throughout the entire shipment lifecycle.",
+          "semantic_tags": ["tracking", "visibility", "logistics", "customer experience"],
+          "important_entities": ["FedEx"],
+          "references": [],
+          "metadata": {
+            "page_number": "1",
+            "topic": "Shipment Tracking",
+            "subtopic": "Introduction"
+          }
+        },
+        {
+          "content_id": "TG-S01-C02",
+          "content_type": "paragraph",
+          "heading": "How Tracking Systems Work",
+          "paragraph": "Tracking systems are designed to provide visibility at each major stage of transportation. As packages move through sorting facilities, transportation hubs, customs checkpoints, and delivery stations, status updates are generated and made available to customers. These updates help users understand where a package is within the transportation network and what actions, if any, may be required. Shipment tracking is equally valuable for individual consumers monitoring online purchases and for businesses managing inventory, customer service operations, and supply chain visibility.",
+          "semantic_tags": ["tracking system", "status updates", "supply chain", "sorting facilities"],
+          "important_entities": ["FedEx"],
+          "references": [],
+          "metadata": {
+            "page_number": "1",
+            "topic": "Shipment Tracking",
+            "subtopic": "System Operation"
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "TG-S02",
+      "section_title": "Tracking Number Overview",
+      "section_summary": "Explains what a tracking number is, how it works, and why it is essential.",
+      "keywords": ["tracking number", "unique identifier", "shipment records", "package location"],
+      "content": [
+        {
+          "content_id": "TG-S02-C01",
+          "content_type": "paragraph",
+          "heading": "Purpose and Function of a Tracking Number",
+          "paragraph": "A tracking number is a unique identifier assigned to a shipment at the time of creation. It allows logistics systems to locate, monitor, and manage packages throughout the delivery process, remaining associated with the package until final delivery or return. Without a tracking number, locating a specific package within a large transportation network would be significantly more difficult. Each tracking number is linked to shipment records that include sender information, receiver information, shipment dates, package details, transportation events, and delivery status updates.",
+          "semantic_tags": ["tracking number", "shipment identifier", "package records"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "2",
+            "topic": "Tracking Number",
+            "subtopic": "Definition and Purpose"
+          }
+        },
+        {
+          "content_id": "TG-S02-C02",
+          "content_type": "paragraph",
+          "heading": "Who Uses Tracking Numbers",
+          "paragraph": "Tracking numbers serve multiple stakeholders in the logistics process. Customers enter a tracking number into a tracking system to retrieve the latest shipment status. Customer service representatives, warehouse personnel, delivery drivers, and logistics coordinators all use tracking numbers to identify and manage shipments accurately. This shared reference ensures that every party in the supply chain can access consistent, up-to-date information about a shipment.",
+          "semantic_tags": ["tracking number", "customer service", "warehouse", "logistics coordination"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "2",
+            "topic": "Tracking Number",
+            "subtopic": "Stakeholder Usage"
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "TG-S03",
+      "section_title": "Importance of Shipment Tracking",
+      "section_summary": "Describes the operational and business benefits of shipment tracking.",
+      "keywords": ["visibility", "operational efficiency", "accountability", "supply chain management"],
+      "content": [
+        {
+          "content_id": "TG-S03-C01",
+          "content_type": "paragraph",
+          "heading": "Key Benefits of Shipment Tracking",
+          "paragraph": "Shipment tracking provides numerous benefits across logistics operations. Its primary advantage is increased visibility: customers can monitor package progress without contacting customer support, reducing uncertainty and improving satisfaction. Tracking systems also improve operational efficiency by allowing logistics providers to identify delays, monitor transportation performance, and respond quickly to disruptions. Businesses gain better control over inventory movement and can provide more accurate delivery estimates to customers. Additionally, every major transportation event is recorded, creating a detailed shipment history that supports delivery investigations, milestone verification, and claims processes.",
+          "semantic_tags": ["visibility", "operational efficiency", "customer satisfaction", "shipment history"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "2",
+            "topic": "Tracking Benefits",
+            "subtopic": "Operational Value"
+          }
+        },
+        {
+          "content_id": "TG-S03-C02",
+          "content_type": "paragraph",
+          "heading": "Supply Chain Management Value",
+          "paragraph": "Tracking information plays a vital role in supply chain management. Manufacturers, distributors, retailers, and e-commerce organizations rely on shipment visibility to coordinate production schedules, inventory replenishment, and customer deliveries. By maintaining real-time awareness of package locations and statuses, these organizations can reduce costly stockouts, improve delivery promises, and respond faster when disruptions occur in the logistics network.",
+          "semantic_tags": ["supply chain", "inventory replenishment", "e-commerce", "production schedules"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "2",
+            "topic": "Tracking Benefits",
+            "subtopic": "Supply Chain"
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "TG-S04",
+      "section_title": "Shipment Lifecycle Overview",
+      "section_summary": "Describes the end-to-end stages a shipment passes through from creation to delivery.",
+      "keywords": ["shipment lifecycle", "label creation", "transportation network", "delivery", "tracking events"],
+      "content": [
+        {
+          "content_id": "TG-S04-C01",
+          "content_type": "paragraph",
+          "heading": "Stages of the Shipment Lifecycle",
+          "paragraph": "Every shipment moves through a series of stages before reaching its destination. The lifecycle begins when shipment information is entered into the transportation system, a shipping label is created, and a tracking number is assigned. At this point the package may not yet be physically in the carrier's possession. Once collected, the shipment enters the transportation network and may travel through local facilities, regional sorting centers, transportation hubs, airports, customs checkpoints, and destination facilities before reaching the receiver. Throughout this journey, tracking systems record transportation events and update shipment statuses. The lifecycle concludes when the package is successfully delivered, returned to the sender, or otherwise closed within the transportation system.",
+          "semantic_tags": ["shipment lifecycle", "label creation", "pickup", "sorting", "delivery"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "3",
+            "topic": "Shipment Lifecycle",
+            "subtopic": "End-to-End Stages"
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "TG-S05",
+      "section_title": "Tracking Statuses Explained",
+      "section_summary": "Detailed explanations of each tracking status a shipment may display, from label creation through out-for-delivery.",
+      "keywords": ["tracking status", "label created", "picked up", "in transit", "at local facility", "on vehicle for delivery", "shipment information sent"],
+      "content": [
+        {
+          "content_id": "TG-S05-C01",
+          "content_type": "paragraph",
+          "heading": "Shipment Information Sent",
+          "paragraph": "The status 'Shipment Information Sent' indicates that shipping information has been submitted electronically to the carrier. This status typically appears when a sender creates a shipping label but has not yet handed the package to the carrier. Shipment records exist within the transportation system at this stage, but physical possession has not yet been confirmed. Customers may see this status before a pickup occurs or before the package is dropped off at a shipping facility. This status does not indicate a problem; it simply means that shipment preparation has begun.",
+          "semantic_tags": ["shipment information sent", "label preparation", "pre-pickup"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "3",
+            "topic": "Tracking Statuses",
+            "subtopic": "Shipment Information Sent"
+          }
+        },
+        {
+          "content_id": "TG-S05-C02",
+          "content_type": "paragraph",
+          "heading": "Label Created",
+          "paragraph": "The 'Label Created' status means that a shipping label has been generated and assigned to a package, making the tracking number active. The package may still be with the sender at this stage, and the transportation provider is aware the shipment exists but has not yet processed it through its network. Customers frequently encounter this status when online retailers prepare orders for shipment. The status remains unchanged until the package is physically received and scanned by the carrier.",
+          "semantic_tags": ["label created", "tracking number active", "pre-carrier", "online retail"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "3",
+            "topic": "Tracking Statuses",
+            "subtopic": "Label Created"
+          }
+        },
+        {
+          "content_id": "TG-S05-C03",
+          "content_type": "paragraph",
+          "heading": "Picked Up",
+          "paragraph": "The 'Picked Up' status confirms that the carrier has received the package from the sender and the shipment has entered the transportation network. Packages may be collected through scheduled pickups, shipping centers, authorized locations, or drop boxes. Once picked up, the shipment begins moving toward sorting and processing facilities. Customers typically view this status as official confirmation that transportation has started.",
+          "semantic_tags": ["picked up", "carrier acceptance", "transportation start"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "4",
+            "topic": "Tracking Statuses",
+            "subtopic": "Picked Up"
+          }
+        },
+        {
+          "content_id": "TG-S05-C04",
+          "content_type": "paragraph",
+          "heading": "In Transit",
+          "paragraph": "'In Transit' is one of the most common tracking statuses, indicating that the package is actively moving through the transportation network toward its destination. A shipment may remain in transit for several days depending on service type, distance, weather conditions, customs requirements, and transportation schedules. Customers should note that 'In Transit' does not mean the package is physically moving at every moment; it may be waiting at a sorting facility or airport while still progressing normally. This status generally reflects expected shipment movement and should not be interpreted as a delay.",
+          "semantic_tags": ["in transit", "active movement", "transit time", "normal progress"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "4",
+            "topic": "Tracking Statuses",
+            "subtopic": "In Transit"
+          }
+        },
+        {
+          "content_id": "TG-S05-C05",
+          "content_type": "paragraph",
+          "heading": "At Local Facility",
+          "paragraph": "The 'At Local Facility' status indicates that the shipment has arrived at a facility near the destination area. Local facilities perform final sorting operations and prepare packages for delivery routes, after which packages are assigned to delivery vehicles. This status often appears shortly before final delivery and is widely viewed by customers as a positive signal that delivery is approaching.",
+          "semantic_tags": ["at local facility", "final sorting", "pre-delivery", "destination area"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "4",
+            "topic": "Tracking Statuses",
+            "subtopic": "At Local Facility"
+          }
+        },
+        {
+          "content_id": "TG-S05-C06",
+          "content_type": "paragraph",
+          "heading": "On Vehicle for Delivery",
+          "paragraph": "'On Vehicle for Delivery' means the package has been loaded onto a delivery vehicle and is scheduled for delivery that day, representing the final stage of transportation. Delivery drivers follow predetermined routes to distribute packages within their assigned service areas. The exact delivery time may vary depending on route conditions, traffic, weather, and delivery volume. Customers widely regard this as the most anticipated tracking update because it signals imminent delivery.",
+          "semantic_tags": ["on vehicle for delivery", "out for delivery", "final mile", "delivery imminent"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "4",
+            "topic": "Tracking Statuses",
+            "subtopic": "On Vehicle for Delivery"
+          }
+        }
+      ]
+    }
+  ]
+}

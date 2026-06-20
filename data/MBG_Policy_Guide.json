@@ -1,0 +1,369 @@
+{
+  "document_title": "MBG Policy Guide (Money-Back Guarantee Policy Guide)",
+  "document_type": "policy_guide",
+  "source": "MBG_Policy_Guide.docx",
+  "language": "en",
+  "created_at": "2024-01-01",
+  "sections": [
+    {
+      "section_id": "MBG-S01",
+      "section_title": "Introduction to Money-Back Guarantee",
+      "section_summary": "Defines the MBG policy, its purpose, and why it exists.",
+      "keywords": ["Money-Back Guarantee", "MBG", "refund", "delivery commitment", "service quality", "eligibility"],
+      "content": [
+        {
+          "content_id": "MBG-S01-C01",
+          "content_type": "paragraph",
+          "heading": "What Is the Money-Back Guarantee",
+          "paragraph": "The Money-Back Guarantee (MBG) is a customer service policy that provides eligible customers with a refund of transportation charges when a shipment fails to meet a published delivery commitment. Customers select shipping services based on promised delivery timelines, and when a carrier commits to delivering a shipment by a specific date or time, the MBG serves as the mechanism for addressing situations where eligible shipments arrive later than promised. The policy demonstrates the carrier's commitment to service quality and helps build trust by establishing clear performance expectations. However, not all shipments qualify for MBG coverage; eligibility depends on service type, shipment characteristics, operational conditions, and specific policy requirements.",
+          "semantic_tags": ["MBG", "refund", "delivery commitment", "eligibility", "service quality"],
+          "important_entities": ["FedEx"],
+          "references": [],
+          "metadata": {
+            "page_number": "1",
+            "topic": "MBG Introduction",
+            "subtopic": "Definition and Purpose"
+          }
+        },
+        {
+          "content_id": "MBG-S01-C02",
+          "content_type": "paragraph",
+          "heading": "Types of Delivery Commitments",
+          "paragraph": "A delivery commitment refers to the promised delivery date or time associated with a shipping service. Different services offer different commitments depending on destination, transportation mode, and service level. Examples include same-day delivery, overnight delivery, two-day delivery, express international delivery, time-definite delivery, and standard ground delivery. The MBG policy generally applies when a shipment arrives later than its published or committed delivery schedule, provided all eligibility requirements are satisfied.",
+          "semantic_tags": ["delivery commitment", "delivery promise", "overnight", "same-day", "time-definite"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "1",
+            "topic": "MBG Introduction",
+            "subtopic": "Delivery Commitments"
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "MBG-S02",
+      "section_title": "Eligibility Requirements and Service Coverage",
+      "section_summary": "Describes which services are typically covered by MBG and the conditions a shipment must meet to qualify.",
+      "keywords": ["MBG eligibility", "eligible services", "overnight services", "express services", "tracking number", "cutoff time"],
+      "content": [
+        {
+          "content_id": "MBG-S02-C01",
+          "content_type": "paragraph",
+          "heading": "Services Commonly Covered Under MBG",
+          "paragraph": "Certain premium transportation services are more likely to include Money-Back Guarantee coverage because customers pay specifically for speed and delivery certainty. Services that may qualify include overnight services, priority express services, time-definite delivery services, international priority services, and premium business delivery options. Economy and certain deferred services may not offer refund eligibility. Coverage depends on current service policies and operational guidelines, so customers should verify eligibility at the time of shipment because policy details may change over time.",
+          "semantic_tags": ["eligible services", "overnight", "priority express", "time-definite", "economy exclusion"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "2",
+            "topic": "Eligibility",
+            "subtopic": "Covered Services"
+          }
+        },
+        {
+          "content_id": "MBG-S02-C02",
+          "content_type": "paragraph",
+          "heading": "Basic Eligibility Conditions",
+          "paragraph": "For a shipment to qualify for a Money-Back Guarantee review, several conditions must typically be satisfied. The shipment must use an eligible shipping service, have a valid tracking number, meet packaging requirements, be tendered before shipping cutoff times, contain accurate shipment information, not violate transportation policies, and must have been delivered later than the committed delivery time. Eligibility reviews consider shipment records, operational data, delivery scans, and service commitments. Customers should retain shipment documentation and tracking information when submitting MBG requests.",
+          "semantic_tags": ["MBG eligibility conditions", "cutoff time", "valid tracking", "packaging requirements", "accurate information"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "2",
+            "topic": "Eligibility",
+            "subtopic": "Basic Requirements"
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "MBG-S03",
+      "section_title": "Refund Request Process",
+      "section_summary": "Step-by-step process for submitting and evaluating an MBG refund claim.",
+      "keywords": ["refund request", "claim submission", "steps", "tracking number", "carrier review", "refund decision"],
+      "content": [
+        {
+          "content_id": "MBG-S03-C01",
+          "content_type": "paragraph",
+          "heading": "How to Submit a Refund Claim",
+          "paragraph": "When a customer believes an eligible shipment was delivered later than the committed time, they may submit a Money-Back Guarantee refund request. The process begins after delivery has occurred and shipment records suggest the commitment may have been missed. Customers should first verify delivery status through tracking to confirm the late delivery, then confirm that the selected service is eligible for MBG coverage. Required information typically includes the tracking number, shipment date, sender and recipient information, delivery details, and service type used. After the customer submits the request through approved customer support channels, operational teams evaluate shipment history, service commitments, and exception records. If eligibility requirements are met, the refund is approved according to policy guidelines.",
+          "semantic_tags": ["refund claim", "submission process", "claim review", "tracking verification"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "3",
+            "topic": "Refund Process",
+            "subtopic": "Claim Submission Steps"
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "MBG-S04",
+      "section_title": "Valid and Invalid Refund Scenarios",
+      "section_summary": "Examples of situations that do and do not qualify for MBG refunds.",
+      "keywords": ["valid scenarios", "invalid scenarios", "late delivery", "missed commitment", "incorrect address", "recipient unavailable"],
+      "content": [
+        {
+          "content_id": "MBG-S04-C01",
+          "content_type": "paragraph",
+          "heading": "Scenarios That May Qualify for a Refund",
+          "paragraph": "Certain situations commonly qualify for Money-Back Guarantee consideration when policy requirements are satisfied. These include late delivery where a shipment arrives significantly after its committed window (for example, a shipment scheduled by 10:30 AM arriving at 3:00 PM), an overnight shipment arriving on the day after the promised delivery date, a premium express shipment failing to meet its guaranteed delivery window, and an internal operational issue within the transportation network causing a shipment to miss its published commitment. In these situations, customers may qualify for a refund if no policy exclusions apply.",
+          "semantic_tags": ["valid refund", "late delivery", "missed overnight", "service failure", "operational issue"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "3",
+            "topic": "Refund Scenarios",
+            "subtopic": "Valid Scenarios"
+          }
+        },
+        {
+          "content_id": "MBG-S04-C02",
+          "content_type": "paragraph",
+          "heading": "Scenarios That Do Not Qualify for a Refund",
+          "paragraph": "Not all delayed shipments qualify for refunds. If the sender provides an inaccurate or incomplete delivery address, resulting delays generally do not qualify. If delivery cannot be completed because the recipient is unavailable, the carrier may not be responsible for the delay. Similarly, failure to provide necessary recipient contact information, or a customer request for delivery postponement or shipment hold services, will typically result in delays that fall outside MBG coverage. Understanding these exclusions helps customers establish realistic expectations regarding refund eligibility.",
+          "semantic_tags": ["invalid refund", "incorrect address", "recipient unavailable", "shipment hold", "MBG exclusions"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "3",
+            "topic": "Refund Scenarios",
+            "subtopic": "Invalid Scenarios"
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "MBG-S05",
+      "section_title": "Policy Exceptions and Exclusions",
+      "section_summary": "Circumstances that are excluded from MBG coverage including weather, customs, government actions, and peak season.",
+      "keywords": ["weather exception", "customs delay", "government action", "operational disruption", "peak season", "force majeure"],
+      "content": [
+        {
+          "content_id": "MBG-S05-C01",
+          "content_type": "paragraph",
+          "heading": "Weather-Related and Customs Exceptions",
+          "paragraph": "Severe weather conditions are among the most common reasons for transportation disruptions. Events such as hurricanes, flooding, snowstorms, tornadoes, earthquakes, extreme temperatures, and severe thunderstorms are beyond carrier control, so shipments delayed by significant weather events are typically excluded from MBG coverage. Similarly, international shipments may encounter customs clearance delays involving documentation reviews, inspection requests, duty and tax assessments, regulatory compliance checks, or permit verification. Since customs agencies operate independently of transportation carriers, customs-related delays are generally excluded from Money-Back Guarantee coverage.",
+          "semantic_tags": ["weather exception", "customs exclusion", "force majeure", "MBG exclusions", "customs delay"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "4",
+            "topic": "Policy Exceptions",
+            "subtopic": "Weather and Customs"
+          }
+        },
+        {
+          "content_id": "MBG-S05-C02",
+          "content_type": "paragraph",
+          "heading": "Government Actions, Operational Disruptions, and Peak Season",
+          "paragraph": "Government activities such as border closures, security alerts, public safety restrictions, regulatory inspections, and national emergencies may delay shipment movement and are generally considered policy exceptions. Transportation networks may also experience operational disruptions including facility equipment failures, transportation accidents, network congestion, labor shortages, and infrastructure issues; whether such disruptions qualify for refunds depends on specific policy rules and the nature of the event. During high-volume peak seasons such as holiday periods, major shopping events, or national festivals, temporary policy adjustments may affect MBG eligibility, and customers should review current service announcements and plan shipments early to reduce seasonal delivery risks.",
+          "semantic_tags": ["government action", "operational disruption", "peak season", "holiday shipping", "MBG exclusions"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "4",
+            "topic": "Policy Exceptions",
+            "subtopic": "Government, Operational, Peak Season"
+          }
+        },
+        {
+          "content_id": "MBG-S05-C03",
+          "content_type": "paragraph",
+          "heading": "Delivery Attempt Rules",
+          "paragraph": "MBG evaluations also consider delivery attempt records. If delivery personnel arrive at the destination before the commitment deadline but cannot complete delivery due to recipient-related circumstances such as the recipient being unavailable, missing signature authorization, restricted access, security restrictions, or business closure, the shipment may still be considered on time. In these situations, delivery attempt records become important evidence during refund reviews. Customers should ensure that recipients are available and accessible when delivery is expected.",
+          "semantic_tags": ["delivery attempt", "failed delivery", "recipient unavailable", "MBG evaluation", "delivery record"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "4",
+            "topic": "Policy Exceptions",
+            "subtopic": "Delivery Attempt Rules"
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "MBG-S06",
+      "section_title": "Case Studies",
+      "section_summary": "Real-world example scenarios illustrating when MBG does and does not apply.",
+      "keywords": ["case study", "eligible refund", "weather exception", "recipient unavailable", "customs delay"],
+      "content": [
+        {
+          "content_id": "MBG-S06-C01",
+          "content_type": "paragraph",
+          "heading": "Case Study 1: Eligible Refund Due to Internal Sorting Error",
+          "paragraph": "A customer ships an urgent business document using an overnight delivery service with a guaranteed next-morning delivery commitment. The shipment is accepted before the daily cutoff and enters the network without issues, but an internal sorting error causes the package to miss a connecting flight, resulting in arrival several hours after the promised delivery time. Tracking records confirm accurate shipment information, compliant packaging, no weather disruptions, no customs involvement, and that the delay was caused by internal operational issues. Because the shipment missed its delivery commitment with no applicable policy exclusions, the customer qualifies for an MBG refund review.",
+          "semantic_tags": ["case study", "eligible refund", "sorting error", "internal failure", "overnight delivery"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "5",
+            "topic": "Case Studies",
+            "subtopic": "Eligible Refund"
+          }
+        },
+        {
+          "content_id": "MBG-S06-C02",
+          "content_type": "paragraph",
+          "heading": "Case Study 2: Weather Exception Scenario",
+          "paragraph": "A customer ships an important package using an express delivery service. During transportation, a severe hurricane affects multiple transportation hubs and airports, causing flight cancellations and facility closures. Although the shipment arrives later than originally promised, tracking records confirm that severe weather conditions caused the delay. Because weather-related disruptions are generally excluded from MBG coverage, the shipment does not qualify for a refund despite the missed delivery commitment.",
+          "semantic_tags": ["weather exception", "hurricane", "no refund", "MBG exclusion", "case study"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "5",
+            "topic": "Case Studies",
+            "subtopic": "Weather Exception"
+          }
+        },
+        {
+          "content_id": "MBG-S06-C03",
+          "content_type": "paragraph",
+          "heading": "Case Study 3: Recipient Unavailable",
+          "paragraph": "A shipment requiring a signature arrives at the destination city before the committed delivery deadline, but no authorized recipient is available at the time of the delivery attempt. A second delivery attempt the following day results in successful delivery. Although final delivery occurred after the original commitment, carrier records show a valid delivery attempt was made before the deadline. In this situation, refund eligibility may not apply because the delay resulted from recipient-related circumstances rather than carrier performance.",
+          "semantic_tags": ["recipient unavailable", "delivery attempt", "signature required", "no refund", "case study"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "5",
+            "topic": "Case Studies",
+            "subtopic": "Recipient Unavailable"
+          }
+        },
+        {
+          "content_id": "MBG-S06-C04",
+          "content_type": "paragraph",
+          "heading": "Case Study 4: Customs Delay",
+          "paragraph": "An international shipment transported via a priority international service arrives at the destination country on schedule but is selected for customs inspection. Customs authorities request additional documentation before releasing the shipment, and the package remains in customs processing for several days. Because customs agencies operate independently of transportation providers, customs-related delays are generally excluded from MBG coverage. This case highlights the importance of understanding international shipping exceptions and preparing accurate customs documentation in advance.",
+          "semantic_tags": ["customs delay", "customs inspection", "MBG exclusion", "international shipping", "case study"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "5",
+            "topic": "Case Studies",
+            "subtopic": "Customs Delay"
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "MBG-S07",
+      "section_title": "Dimensional Weight and Billing",
+      "section_summary": "Explanation of dimensional weight calculations, billable weight, and packaging optimization strategies.",
+      "keywords": ["dimensional weight", "DIM divisor", "billable weight", "package dimensions", "packaging optimization", "shipping costs"],
+      "content": [
+        {
+          "content_id": "MBG-S07-C01",
+          "content_type": "paragraph",
+          "heading": "How Dimensional Weight Is Calculated",
+          "paragraph": "Dimensional weight is a pricing technique used by logistics providers to account for the space a package occupies during transportation. Packages that are lightweight but bulky may consume more transportation space than their actual weight suggests. The calculation involves measuring length, width, and height (each at their longest points), multiplying to get volume, then dividing by a DIM Divisor (commonly 5,000 for metric measurements). The resulting dimensional weight is then compared with the actual package weight, and the higher value becomes the billable weight. For example, a pillow shipment measuring 80 x 60 x 50 cm with an actual weight of 6 kg would yield a dimensional weight of 48 kg (240,000 divided by 5,000), making 48 kg the billable weight.",
+          "semantic_tags": ["dimensional weight", "DIM divisor", "billable weight", "volume calculation", "pricing"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "6",
+            "topic": "Dimensional Weight",
+            "subtopic": "Calculation Method"
+          }
+        },
+        {
+          "content_id": "MBG-S07-C02",
+          "content_type": "paragraph",
+          "heading": "Packaging Optimization to Reduce Costs",
+          "paragraph": "One of the best ways to reduce dimensional weight costs is through packaging optimization, which involves selecting packaging that protects products while minimizing unused space. Effective strategies include using right-sized boxes that closely match product dimensions, reducing empty void areas inside packages, using appropriate cushioning without unnecessary bulk, standardizing packaging designs for transportation efficiency, and regularly reviewing shipping data to identify packaging improvement opportunities. Organizations that optimize packaging often achieve significant transportation cost savings, and these efforts also support sustainability by reducing packaging waste and improving vehicle space utilization.",
+          "semantic_tags": ["packaging optimization", "right-sized packaging", "cost reduction", "void fill", "sustainability"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "6",
+            "topic": "Dimensional Weight",
+            "subtopic": "Packaging Optimization"
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "MBG-S08",
+      "section_title": "Role-Based Guidance",
+      "section_summary": "Guidance tailored to individual customers, recipients, business shippers, and FedEx staff regarding MBG policies.",
+      "keywords": ["role-based guidance", "individual customers", "recipients", "business shippers", "FedEx staff", "customer service"],
+      "content": [
+        {
+          "content_id": "MBG-S08-C01",
+          "content_type": "paragraph",
+          "heading": "Guidance for Individual Customers",
+          "paragraph": "Individual customers should carefully review the service selected and understand its delivery commitment before shipping. Premium services generally provide faster delivery and may include MBG coverage, while economy services may not offer refund eligibility. Customers should always retain shipment records, receipts, and tracking numbers, as these are required when submitting a refund request. When a shipment appears delayed, customers should first verify tracking information before contacting customer support, since tracking updates often explain delays including weather events, customs reviews, or delivery exceptions.",
+          "semantic_tags": ["individual customers", "MBG guidance", "tracking retention", "service selection"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "7",
+            "topic": "Role-Based Guidance",
+            "subtopic": "Individual Customers"
+          }
+        },
+        {
+          "content_id": "MBG-S08-C02",
+          "content_type": "paragraph",
+          "heading": "Guidance for Business Shippers and FedEx Staff",
+          "paragraph": "Business shippers should monitor critical shipments closely, maintain accurate shipment records, verify service eligibility before shipping, and analyze refund trends to identify recurring operational issues. Organizations shipping high volumes can maximize transportation reliability by establishing strong shipment management practices. FedEx customer service representatives should be able to explain delivery commitments, eligibility requirements, refund procedures, policy exceptions, tracking information, and claim review processes. Operations personnel must maintain accurate shipment records because refund decisions depend on transportation event data, and managers can use MBG performance metrics to identify service improvement opportunities.",
+          "semantic_tags": ["business shippers", "FedEx staff", "customer service", "performance metrics", "operations"],
+          "important_entities": ["FedEx"],
+          "references": [],
+          "metadata": {
+            "page_number": "7",
+            "topic": "Role-Based Guidance",
+            "subtopic": "Business Shippers and Staff"
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "MBG-S09",
+      "section_title": "Frequently Asked Questions",
+      "section_summary": "Common customer questions about the Money-Back Guarantee policy.",
+      "keywords": ["FAQ", "MBG questions", "refund eligibility", "weather delays", "international shipments", "tracking"],
+      "content": [
+        {
+          "content_id": "MBG-S09-C01",
+          "content_type": "faq",
+          "question": "What is the purpose of the Money-Back Guarantee?",
+          "answer": "The Money-Back Guarantee provides eligible customers with a refund option when certain shipments fail to meet published delivery commitments."
+        },
+        {
+          "content_id": "MBG-S09-C02",
+          "content_type": "faq",
+          "question": "Does every shipment qualify for MBG?",
+          "answer": "No. Eligibility depends on the shipping service selected, shipment circumstances, and policy requirements. Economy and certain deferred services may not qualify."
+        },
+        {
+          "content_id": "MBG-S09-C03",
+          "content_type": "faq",
+          "question": "Can weather-related delays qualify for a refund?",
+          "answer": "Weather-related disruptions are commonly excluded from MBG coverage because they are beyond carrier control."
+        },
+        {
+          "content_id": "MBG-S09-C04",
+          "content_type": "faq",
+          "question": "Are international shipments covered by MBG?",
+          "answer": "Some international services may include MBG coverage, but customs-related delays are typically excluded since customs agencies operate independently of the carrier."
+        },
+        {
+          "content_id": "MBG-S09-C05",
+          "content_type": "faq",
+          "question": "Can failed delivery attempts affect MBG eligibility?",
+          "answer": "Yes. If a carrier attempts delivery before the deadline but cannot complete delivery due to recipient-related reasons such as the recipient being unavailable, refund eligibility may be affected."
+        },
+        {
+          "content_id": "MBG-S09-C06",
+          "content_type": "faq",
+          "question": "Is tracking information important for MBG claims?",
+          "answer": "Yes. Tracking records are often the primary evidence used during MBG evaluations to verify delivery timelines and identify exceptions."
+        }
+      ]
+    }
+  ]
+}

@@ -4,13 +4,16 @@ from dotenv import load_dotenv
 from langchain_nvidia_ai_endpoints import ChatNVIDIA
 from retriever import retrieve_context
 
-# Load environment
+# Load environment variables
 load_dotenv()
 
-# NVIDIA API KEY
+# Get NVIDIA API Key
 api_key = os.getenv("NVIDIA_API_KEY")
 
-# NVIDIA LLM
+if not api_key:
+    raise ValueError("NVIDIA_API_KEY not found in .env file")
+
+# Initialize NVIDIA LLM
 llm = ChatNVIDIA(
     model="ai-mixtral-8x7b-instruct",
     api_key=api_key,
@@ -19,17 +22,38 @@ llm = ChatNVIDIA(
 )
 
 def ask_fedex_bot(query):
+    """
+    Retrieve context from vector DB and generate answer
+    """
 
-    # Retrieve context
+    # Retrieve relevant context
     context = retrieve_context(query)
 
     if not context:
-        return "No relevant information found."
+        return "I could not find relevant information in the FedEx knowledge base."
 
     prompt = f"""
-You are a FedEx customer support assistant.
+You are FedAssist, an AI-powered FedEx logistics support assistant.
 
-Use ONLY the provided context to answer.
+Your expertise includes:
+- FedEx Services
+- Shipping Guidance
+- Shipment Tracking
+- Customs Documentation
+- Money-Back Guarantee (MBG) Policy
+- Dimensional Weight
+- Prohibited Items
+- Delivery Exceptions
+- Logistics Terminology
+- Frequently Asked Questions
+
+Rules:
+1. Answer ONLY using the provided context.
+2. Do NOT make up information.
+3. If the answer is not available in the context, say:
+   "I could not find that information in the FedEx knowledge base."
+4. Be professional and concise.
+5. Use bullet points when appropriate.
 
 Context:
 {context}
@@ -37,7 +61,7 @@ Context:
 Question:
 {query}
 
-Provide a clear professional answer.
+Answer:
 """
 
     try:

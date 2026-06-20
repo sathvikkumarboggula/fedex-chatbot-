@@ -1,0 +1,377 @@
+{
+  "document_title": "Shipping Guide",
+  "document_type": "operational_guide",
+  "source": "Shipping_Guide.docx",
+  "language": "en",
+  "created_at": "2024-01-01",
+  "sections": [
+    {
+      "section_id": "SG-S01",
+      "section_title": "Introduction to Shipping",
+      "section_summary": "Overview of what shipping is, its role in logistics, and how FedEx enables it globally.",
+      "keywords": ["shipping", "logistics", "supply chain", "FedEx", "transportation network", "international trade"],
+      "content": [
+        {
+          "content_id": "SG-S01-C01",
+          "content_type": "paragraph",
+          "heading": "What Is Shipping",
+          "paragraph": "Shipping is the process of transporting goods, documents, parcels, and freight from one location to another through a logistics network. It is a fundamental component of supply chain management and plays a critical role in connecting businesses, customers, suppliers, manufacturers, and service providers. Modern shipping systems utilize transportation infrastructure, technology platforms, tracking systems, sorting facilities, and delivery operations to ensure shipments reach their intended destinations efficiently and securely. Organizations depend on shipping to distribute products, fulfill customer orders, replenish inventory, transport raw materials, and support international trade. Individual customers use shipping to send gifts, personal belongings, important documents, and online purchases.",
+          "semantic_tags": ["shipping definition", "supply chain", "logistics network", "freight", "delivery"],
+          "important_entities": ["FedEx"],
+          "references": [],
+          "metadata": {
+            "page_number": "1",
+            "topic": "Shipping Introduction",
+            "subtopic": "Definition"
+          }
+        },
+        {
+          "content_id": "SG-S01-C02",
+          "content_type": "paragraph",
+          "heading": "The Role of Shipping in Logistics and E-Commerce",
+          "paragraph": "Shipping serves as the physical movement component of logistics operations. Efficient shipping contributes directly to customer satisfaction, operational efficiency, and business growth. Customers expect shipments to arrive safely, accurately, and within promised delivery windows, and businesses depend on shipping to maintain inventory levels, support production schedules, and fulfill customer commitments. In e-commerce environments, shipping performance often determines customer perception of service quality, as fast deliveries, accurate tracking information, and reliable transportation positively influence customer experiences. Shipping also supports global trade by enabling products to move across international borders, allowing manufacturers to access international markets and consumers to purchase from organizations in different countries.",
+          "semantic_tags": ["logistics", "e-commerce", "customer satisfaction", "global trade", "delivery reliability"],
+          "important_entities": ["FedEx"],
+          "references": [],
+          "metadata": {
+            "page_number": "1",
+            "topic": "Shipping Introduction",
+            "subtopic": "Role in Logistics"
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "SG-S02",
+      "section_title": "Types of Shipping Customers",
+      "section_summary": "Describes the different customer segments that use shipping services and their unique needs.",
+      "keywords": ["individual customers", "recipients", "business shippers", "FedEx staff", "operations teams"],
+      "content": [
+        {
+          "content_id": "SG-S02-C01",
+          "content_type": "paragraph",
+          "heading": "Individual Customers, Recipients, and Business Shippers",
+          "paragraph": "Individual customers use shipping services for personal shipments, gifts, household items, important documents, and online purchases, typically prioritizing convenience, affordability, shipment visibility, and reliable delivery. Recipients are individuals or organizations receiving shipments who frequently need information about delivery status, expected delivery dates, package location, and delivery options. Business shippers use shipping services to distribute products, fulfill customer orders, transport inventory, and support commercial operations, often managing large shipment volumes while prioritizing cost efficiency, transportation reliability, shipment visibility, operational scalability, and customer satisfaction.",
+          "semantic_tags": ["individual customers", "recipients", "business shippers", "customer segments"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "2",
+            "topic": "Customer Types",
+            "subtopic": "Segments Overview"
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "SG-S03",
+      "section_title": "Shipping Lifecycle and Shipment Creation",
+      "section_summary": "Describes how a shipment moves from creation through pickup, sorting, transportation, and final delivery.",
+      "keywords": ["shipping lifecycle", "shipment creation", "tracking number", "pickup", "sorting", "delivery"],
+      "content": [
+        {
+          "content_id": "SG-S03-C01",
+          "content_type": "paragraph",
+          "heading": "Shipment Lifecycle Overview",
+          "paragraph": "Every shipment progresses through a structured lifecycle of multiple stages. The lifecycle begins when shipment information is entered into a shipping system, capturing sender and receiver details, package information, and service selections, which generates a shipping label and tracking number. Once preparation is complete, the package enters the carrier's transportation network through pickup services or authorized drop-off locations. Packages then move through sorting facilities, transportation hubs, regional facilities, airports, customs checkpoints, and local delivery stations before reaching their destination area. Throughout this process, tracking systems record transportation events and update shipment statuses. The final stage involves delivery to the recipient, proof of delivery recording, and closure of shipment records.",
+          "semantic_tags": ["shipping lifecycle", "label creation", "pickup", "sorting", "delivery stages"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "2",
+            "topic": "Shipping Lifecycle",
+            "subtopic": "End-to-End Process"
+          }
+        },
+        {
+          "content_id": "SG-S03-C02",
+          "content_type": "paragraph",
+          "heading": "Shipment Creation and Package Preparation",
+          "paragraph": "Shipment creation is the first operational step, requiring accurate sender and receiver information, complete delivery addresses, valid contact details, and accurate package weight, dimensions, contents, and declared value. These details influence transportation planning, service eligibility, pricing calculations, and regulatory compliance. A tracking number is then assigned as the primary shipment identifier. Proper package preparation is equally essential: customers should select packaging appropriate for contents, such as corrugated boxes, padded envelopes, tubes, or specialized containers. Fragile items require additional protective materials like bubble wrap, foam inserts, or packing paper. Packages should be clearly labeled with shipping labels securely attached, and old labels and barcodes should be removed to prevent routing errors.",
+          "semantic_tags": ["shipment creation", "packaging", "tracking number", "fragile items", "label"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "2",
+            "topic": "Shipping Lifecycle",
+            "subtopic": "Creation and Packaging"
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "SG-S04",
+      "section_title": "Service Selection and Documentation",
+      "section_summary": "How to choose the right shipping service and what documentation is required for domestic and international shipments.",
+      "keywords": ["service selection", "shipping documentation", "commercial invoice", "customs declaration", "ground", "express", "freight"],
+      "content": [
+        {
+          "content_id": "SG-S04-C01",
+          "content_type": "paragraph",
+          "heading": "Selecting the Right Shipping Service",
+          "paragraph": "Selecting the appropriate shipping service affects transportation speed, delivery commitments, shipment visibility, and overall cost. Ground transportation services are selected when affordability is the primary consideration, providing reliable transportation for non-urgent shipments. Express services prioritize speed and are appropriate for urgent shipments requiring accelerated transportation with time-definite delivery commitments. International shipping services support cross-border transportation and include customs-related processes. Freight services handle large, heavy, or palletized shipments exceeding standard parcel limitations. The appropriate service should be selected based on delivery urgency, destination, package size, shipment value, and budget requirements.",
+          "semantic_tags": ["service selection", "ground", "express", "international", "freight", "delivery urgency"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "3",
+            "topic": "Service Selection",
+            "subtopic": "Choosing a Service"
+          }
+        },
+        {
+          "content_id": "SG-S04-C02",
+          "content_type": "paragraph",
+          "heading": "Shipping Documentation Requirements",
+          "paragraph": "Shipping documentation provides critical information for transportation, compliance, customs processing, and delivery operations. Domestic shipments typically require basic shipping labels and shipment information. International shipments require additional documentation because goods must comply with import and export regulations. Common shipping documents include commercial invoices, customs declarations, packing lists, certificates of origin, export declarations, and specialized regulatory forms. These documents help customs authorities evaluate shipments and determine applicable duties, taxes, and compliance requirements. Accurate documentation reduces delays, improves transportation efficiency, and supports successful delivery outcomes. Incomplete or inaccurate documents may result in customs holds, shipment returns, or regulatory penalties.",
+          "semantic_tags": ["shipping documentation", "commercial invoice", "customs declaration", "certificate of origin", "compliance"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "3",
+            "topic": "Documentation",
+            "subtopic": "Required Documents"
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "SG-S05",
+      "section_title": "Domestic and International Shipping Processes",
+      "section_summary": "Step-by-step explanation of how domestic and international shipments are processed through the transportation network.",
+      "keywords": ["domestic shipping", "international shipping", "customs clearance", "sorting", "transportation hubs", "air transport"],
+      "content": [
+        {
+          "content_id": "SG-S05-C01",
+          "content_type": "paragraph",
+          "heading": "Domestic Shipping Process",
+          "paragraph": "Domestic shipping refers to the transportation of goods within the same country. After the sender creates a shipment and the carrier accepts it, the package enters the transportation network and is routed through local and regional facilities. Packages are scanned at various checkpoints to update tracking information, and transportation methods may include delivery vans, cargo trucks, rail networks, and air transportation depending on service type. As the shipment approaches its destination region, it is transferred to local delivery facilities for final sorting and last-mile delivery. Domestic shipping is typically faster than international shipping because it does not require customs clearance or cross-border regulatory processing.",
+          "semantic_tags": ["domestic shipping", "sorting facilities", "last-mile", "tracking checkpoints"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "4",
+            "topic": "Shipping Processes",
+            "subtopic": "Domestic"
+          }
+        },
+        {
+          "content_id": "SG-S05-C02",
+          "content_type": "paragraph",
+          "heading": "International Shipping and Customs Clearance",
+          "paragraph": "International shipping involves transporting goods between different countries and requires compliance with customs regulations, import requirements, export controls, and international trade laws. Customers must provide accurate shipment information, customs declarations, commercial invoices, and other required documents before the shipment is accepted. Packages then move through international transportation networks involving airports, international gateways, customs facilities, and foreign transportation partners. Customs clearance is one of the most important stages; delays frequently occur when documentation is incomplete, inaccurate, or inconsistent with shipment contents. Once customs clearance is completed, the shipment enters the destination country's transportation network and proceeds through local delivery operations.",
+          "semantic_tags": ["international shipping", "customs clearance", "customs documentation", "international gateway", "trade compliance"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "4",
+            "topic": "Shipping Processes",
+            "subtopic": "International"
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "SG-S06",
+      "section_title": "Transportation Network and Hub Operations",
+      "section_summary": "How FedEx's transportation network functions, including hub operations and sorting facilities.",
+      "keywords": ["transportation network", "hubs", "sorting facilities", "route optimization", "last-mile delivery"],
+      "content": [
+        {
+          "content_id": "SG-S06-C01",
+          "content_type": "paragraph",
+          "heading": "Transportation Network Structure",
+          "paragraph": "The transportation network serves as the backbone of shipping operations, consisting of pickup vehicles, local stations, sorting facilities, regional hubs, airports, freight terminals, and delivery vehicles working together to move shipments from origin to destination. Transportation hubs act as central connection points where shipments from different locations are consolidated, sorted, and redirected toward their next destination. When a shipment enters the network, it typically moves through local stations, regional distribution centers, national hubs, international gateways, and destination facilities before reaching recipients. Advanced technology systems support transportation planning by analyzing shipment volume, route efficiency, weather conditions, transportation capacity, and operational constraints to maximize efficiency while minimizing delays.",
+          "semantic_tags": ["transportation network", "hubs", "sorting", "routing", "network optimization"],
+          "important_entities": ["FedEx"],
+          "references": [],
+          "metadata": {
+            "page_number": "4",
+            "topic": "Transportation Network",
+            "subtopic": "Network Structure"
+          }
+        },
+        {
+          "content_id": "SG-S06-C02",
+          "content_type": "paragraph",
+          "heading": "Last-Mile Delivery and Delivery Confirmation",
+          "paragraph": "Last-mile delivery refers to the final movement of a shipment from a local distribution facility to the recipient. Although it is the shortest segment of the transportation process, it is often the most expensive and operationally challenging due to traffic conditions, delivery density, geographic constraints, customer availability, and route optimization challenges. Delivery confirmation provides evidence that a shipment has reached its intended destination; proof of delivery may include delivery timestamps, recipient signatures, photographic evidence, GPS location data, or electronic confirmation records. These records help verify successful shipment completion, resolve disputes involving missing shipments, and support claims processes.",
+          "semantic_tags": ["last-mile delivery", "proof of delivery", "delivery confirmation", "recipient signature", "route optimization"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "5",
+            "topic": "Delivery Operations",
+            "subtopic": "Last-Mile and Confirmation"
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "SG-S07",
+      "section_title": "Shipping Costs and Dimensional Weight",
+      "section_summary": "Factors that influence shipping costs including weight, dimensions, distance, speed, and dimensional weight pricing.",
+      "keywords": ["shipping costs", "dimensional weight", "billable weight", "DIM divisor", "package dimensions", "pricing factors"],
+      "content": [
+        {
+          "content_id": "SG-S07-C01",
+          "content_type": "paragraph",
+          "heading": "Factors That Influence Shipping Costs",
+          "paragraph": "Shipping costs are influenced by several factors that determine the resources required to transport a shipment. Package weight is significant because heavier shipments generally require more transportation resources. Package dimensions also play an important role, as large packages occupy valuable transportation space even if lightweight. Shipping distance affects costs because longer routes require additional fuel, labor, and infrastructure. International shipments usually cost more than domestic ones due to customs processing and regulatory compliance activities. Delivery speed also influences pricing; express and overnight services require faster transportation methods and additional resources, resulting in higher costs. Additional services such as insurance, signature confirmation, special handling, temperature-controlled transportation, and dangerous goods processing may generate supplemental charges.",
+          "semantic_tags": ["shipping costs", "pricing factors", "weight", "distance", "delivery speed", "additional services"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "5",
+            "topic": "Shipping Costs",
+            "subtopic": "Pricing Factors"
+          }
+        },
+        {
+          "content_id": "SG-S07-C02",
+          "content_type": "paragraph",
+          "heading": "Dimensional Weight Explained",
+          "paragraph": "Dimensional weight is a pricing technique used by logistics providers to account for the amount of space a package occupies during transportation, particularly important for lightweight but bulky shipments. For example, a large empty box may weigh only a few kilograms but consume significant space within a transportation vehicle. Dimensional weight is calculated using package length, width, and height measurements; the resulting value is compared with actual package weight, and the greater of the two becomes the billable weight. Understanding dimensional weight helps customers select efficient packaging and reduce unnecessary shipping expenses. Proper packaging design that minimizes wasted space both improves transportation efficiency and reduces shipping costs.",
+          "semantic_tags": ["dimensional weight", "billable weight", "bulky shipment", "packaging efficiency", "DIM"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "5",
+            "topic": "Shipping Costs",
+            "subtopic": "Dimensional Weight"
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "SG-S08",
+      "section_title": "Delivery Exceptions, Failed Deliveries, and Returns",
+      "section_summary": "What delivery exceptions and failed delivery attempts are, and how reverse logistics handles shipment returns.",
+      "keywords": ["delivery exception", "failed delivery", "shipment return", "reverse logistics", "redelivery", "address correction"],
+      "content": [
+        {
+          "content_id": "SG-S08-C01",
+          "content_type": "paragraph",
+          "heading": "Delivery Exceptions and Failed Delivery Attempts",
+          "paragraph": "A delivery exception occurs when a shipment encounters an event that prevents normal transportation or delivery, such as severe weather, customs delays, incorrect addresses, recipient unavailability, transportation disruptions, facility congestion, or regulatory issues. When a delivery exception occurs, tracking systems update shipment status information and customer service representatives use these updates to explain delays and provide guidance. Failed delivery attempts occur when delivery personnel cannot complete a delivery due to recipient absence, inaccessible locations, security restrictions, incorrect addresses, or signature requirements. In such cases, the carrier leaves a notification indicating the reason, and customers may reschedule delivery, collect the package from a designated location, or provide updated delivery instructions. Multiple failed attempts may result in package returns.",
+          "semantic_tags": ["delivery exception", "failed delivery", "redelivery", "delivery notification", "tracking update"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "6",
+            "topic": "Delivery Issues",
+            "subtopic": "Exceptions and Failed Deliveries"
+          }
+        },
+        {
+          "content_id": "SG-S08-C02",
+          "content_type": "paragraph",
+          "heading": "Shipment Returns and Reverse Logistics",
+          "paragraph": "Reverse logistics refers to the process of moving goods from customers back to sellers, manufacturers, or distribution facilities. Returns occur for various reasons including damaged products, incorrect shipments, warranty claims, customer dissatisfaction, and product exchanges. Effective reverse logistics processes improve customer satisfaction while reducing operational costs. Organizations often provide return labels, return instructions, and designated collection points to simplify the return experience. Returned shipments enter transportation networks similar to outbound shipments and are collected, transported, inspected, processed, and either restocked, repaired, recycled, or disposed of depending on business requirements. Reverse logistics has become increasingly important due to the growth of e-commerce and customer expectations regarding convenient return options.",
+          "semantic_tags": ["reverse logistics", "returns", "return label", "e-commerce returns", "product exchange"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "6",
+            "topic": "Delivery Issues",
+            "subtopic": "Returns and Reverse Logistics"
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "SG-S09",
+      "section_title": "Shipment Security and Role-Based Guidance",
+      "section_summary": "Security measures for shipments and specific guidance for different user roles.",
+      "keywords": ["shipment security", "risk management", "individual customers", "business shippers", "FedEx staff"],
+      "content": [
+        {
+          "content_id": "SG-S09-C01",
+          "content_type": "paragraph",
+          "heading": "Shipment Security and Risk Management",
+          "paragraph": "Shipment security is a critical component of logistics operations. Logistics providers implement security measures including package screening, facility surveillance systems, controlled access zones, employee training programs, shipment tracking technologies, and transportation monitoring systems. High-value shipments often receive additional protection such as enhanced tracking, signature requirements, restricted handling procedures, and insurance coverage. Common risks include weather events, transportation accidents, facility disruptions, customs delays, fraud, and package theft. Customers can support shipment security by providing accurate shipment information, using appropriate packaging, selecting suitable shipping services, and monitoring shipment progress through tracking systems.",
+          "semantic_tags": ["shipment security", "risk management", "high-value shipments", "surveillance", "insurance"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "6",
+            "topic": "Security",
+            "subtopic": "Shipment Security"
+          }
+        },
+        {
+          "content_id": "SG-S09-C02",
+          "content_type": "paragraph",
+          "heading": "Role-Based Guidance: Individual Customers and Recipients",
+          "paragraph": "Individual customers should verify sender and receiver information before creating shipments, balance delivery urgency and cost when selecting services, retain tracking numbers, and monitor shipment progress regularly. If shipping issues occur, customers should contact customer support and provide tracking information. Recipients should monitor tracking updates and review estimated delivery dates to ensure availability when packages arrive. They should provide accurate delivery instructions regarding access requirements or preferred delivery locations, inspect packages upon delivery and promptly report visible damage, and review proof of delivery records when necessary to confirm successful shipment completion.",
+          "semantic_tags": ["individual customers", "recipients", "tracking", "delivery inspection", "role guidance"],
+          "important_entities": [],
+          "references": [],
+          "metadata": {
+            "page_number": "7",
+            "topic": "Role-Based Guidance",
+            "subtopic": "Customers and Recipients"
+          }
+        },
+        {
+          "content_id": "SG-S09-C03",
+          "content_type": "paragraph",
+          "heading": "Role-Based Guidance: Business Shippers and FedEx Staff",
+          "paragraph": "Business shippers should establish standardized shipping procedures ensuring consistency across shipment preparation, packaging, documentation, and service selection. Shipment visibility should be monitored regularly to identify potential issues before they affect customers, and businesses engaged in international trade should maintain strong documentation practices and customs compliance. FedEx customer service representatives should understand shipment statuses, service options, delivery exceptions, and common shipping issues to provide effective support. Operations coordinators monitor shipment movement, transportation capacity, facility performance, and exception management, while logistics managers analyze transportation performance and optimize network operations using shipping data.",
+          "semantic_tags": ["business shippers", "FedEx staff", "customer service", "operations", "standardized procedures"],
+          "important_entities": ["FedEx"],
+          "references": [],
+          "metadata": {
+            "page_number": "7",
+            "topic": "Role-Based Guidance",
+            "subtopic": "Business Shippers and Staff"
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "SG-S10",
+      "section_title": "Frequently Asked Questions",
+      "section_summary": "Common questions about the shipping process.",
+      "keywords": ["FAQ", "shipment creation", "packaging", "tracking", "dimensional weight", "delivery failure", "international documents"],
+      "content": [
+        {
+          "content_id": "SG-S10-C01",
+          "content_type": "faq",
+          "question": "What information is required to create a shipment?",
+          "answer": "Shipment creation typically requires sender information, receiver information, package details including weight and dimensions, and service selection information."
+        },
+        {
+          "content_id": "SG-S10-C02",
+          "content_type": "faq",
+          "question": "Why is proper packaging important?",
+          "answer": "Proper packaging protects shipment contents from damage and improves transportation reliability throughout the journey."
+        },
+        {
+          "content_id": "SG-S10-C03",
+          "content_type": "faq",
+          "question": "What factors influence shipping costs?",
+          "answer": "Shipping costs are affected by weight, dimensions, distance, service type, delivery speed, and additional service options such as insurance or signature confirmation."
+        },
+        {
+          "content_id": "SG-S10-C04",
+          "content_type": "faq",
+          "question": "What is dimensional weight?",
+          "answer": "Dimensional weight is a pricing method that considers package size in addition to actual weight. The greater of the two values becomes the billable weight."
+        },
+        {
+          "content_id": "SG-S10-C05",
+          "content_type": "faq",
+          "question": "What happens if delivery fails?",
+          "answer": "The carrier may attempt redelivery, hold the shipment for pickup at a designated location, request updated delivery information, or return the package to the sender depending on the situation."
+        },
+        {
+          "content_id": "SG-S10-C06",
+          "content_type": "faq",
+          "question": "Can international shipments require additional documentation?",
+          "answer": "Yes. International shipments often require customs-related documents such as commercial invoices, packing lists, certificates of origin, and customs declarations."
+        }
+      ]
+    }
+  ]
+}

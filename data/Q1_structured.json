@@ -1,0 +1,455 @@
+{
+  "document_title": "FedEx Logistics FAQ Dataset (Q1)",
+  "document_type": "FAQ",
+  "source": "Q1.docx",
+  "language": "English",
+  "created_at": "2024",
+  "sections": [
+    {
+      "section_id": "S1",
+      "section_title": "General FedEx and Shipment Basics",
+      "section_summary": "Covers what FedEx is, its core services, how to create a shipment, and key shipping concepts like tracking numbers and proof of delivery.",
+      "keywords": ["FedEx", "shipment", "tracking number", "proof of delivery", "shipment creation", "logistics"],
+      "content": [
+        {
+          "content_id": "S1-C1",
+          "content_type": "faq",
+          "question": "What is FedEx?",
+          "answer": "FedEx is a global logistics and transportation company that provides shipping, delivery, freight, e-commerce, and supply chain solutions for individuals and businesses.",
+          "semantic_tags": ["company overview", "logistics", "shipping"],
+          "important_entities": ["FedEx"],
+          "references": [],
+          "metadata": { "page_number": "1", "topic": "Company Overview", "subtopic": "General" }
+        },
+        {
+          "content_id": "S1-C2",
+          "content_type": "faq",
+          "question": "What services does FedEx provide?",
+          "answer": "FedEx provides express shipping, ground transportation, international shipping, freight services, package tracking, customs support, and supply chain management solutions.",
+          "semantic_tags": ["services", "express shipping", "international", "freight"],
+          "important_entities": ["FedEx"],
+          "references": [],
+          "metadata": { "page_number": "1", "topic": "Services", "subtopic": "General" }
+        },
+        {
+          "content_id": "S1-C3",
+          "content_type": "faq",
+          "question": "How do I create a shipment?",
+          "answer": "To create a shipment, provide sender details, recipient details, package information, and select a shipping service. After booking, a tracking number is generated.",
+          "semantic_tags": ["shipment creation", "booking", "tracking number"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "1", "topic": "Shipment Creation", "subtopic": "Process" }
+        },
+        {
+          "content_id": "S1-C4",
+          "content_type": "paragraph",
+          "heading": "Tracking Numbers and Proof of Delivery",
+          "paragraph": "A tracking number is a unique identifier assigned to a shipment that allows customers to monitor package movement throughout the delivery process. It helps customers check shipment status, location updates, estimated delivery dates, and delivery confirmations. Proof of delivery (POD) confirms that a shipment has been successfully delivered and may include delivery time, date, and recipient information.",
+          "semantic_tags": ["tracking number", "proof of delivery", "shipment monitoring"],
+          "important_entities": ["tracking number", "POD"],
+          "references": [],
+          "metadata": { "page_number": "1", "topic": "Tracking", "subtopic": "Tracking Number" }
+        },
+        {
+          "content_id": "S1-C5",
+          "content_type": "paragraph",
+          "heading": "Shipment Lifecycle",
+          "paragraph": "After a shipment is booked, it is registered, assigned a tracking number, scheduled for pickup, processed through sorting facilities, transported, and delivered to the recipient. Cancellation may be possible before pickup or processing, but once transportation begins, cancellation options become limited.",
+          "semantic_tags": ["shipment lifecycle", "cancellation", "processing"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "1", "topic": "Shipment Process", "subtopic": "Lifecycle" }
+        }
+      ]
+    },
+    {
+      "section_id": "S2",
+      "section_title": "Tracking FAQs",
+      "section_summary": "Explains all common tracking statuses, how tracking works, and what to do when tracking information is missing or delayed.",
+      "keywords": ["tracking", "In Transit", "Out for Delivery", "Delivered", "tracking status", "scan"],
+      "content": [
+        {
+          "content_id": "S2-C1",
+          "content_type": "paragraph",
+          "heading": "How Tracking Works",
+          "paragraph": "Tracking updates occur whenever the package is scanned at transportation facilities or delivery checkpoints. Customers can enter their tracking number into the tracking system to view shipment status, current location, and delivery updates. Tracking is most accurate using a tracking number, though alternative shipment references may be available in some cases. If an invalid tracking number is entered, the system will indicate that it cannot be found.",
+          "semantic_tags": ["tracking", "scan", "tracking number", "updates"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "1", "topic": "Tracking", "subtopic": "How Tracking Works" }
+        },
+        {
+          "content_id": "S2-C2",
+          "content_type": "paragraph",
+          "heading": "Common Tracking Statuses Explained",
+          "paragraph": "\"In Transit\" means the shipment is currently moving through the transportation network toward its destination. \"Picked Up\" confirms the package has been collected from the sender and entered the shipping network. \"Out for Delivery\" means the shipment has been loaded onto a delivery vehicle and is expected to be delivered soon. \"Delivered\" means the package has successfully reached the recipient and delivery has been completed.",
+          "semantic_tags": ["tracking status", "In Transit", "Picked Up", "Out for Delivery", "Delivered"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "1", "topic": "Tracking", "subtopic": "Status Definitions" }
+        },
+        {
+          "content_id": "S2-C3",
+          "content_type": "faq",
+          "question": "Why is my tracking information not updating?",
+          "answer": "Tracking updates may be delayed due to transportation schedules, scanning delays, weather conditions, or operational issues. If the shipment remains unchanged for an unusually long period, customers should contact support.",
+          "semantic_tags": ["tracking delay", "no update", "scanning"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "1", "topic": "Tracking", "subtopic": "Troubleshooting" }
+        }
+      ]
+    },
+    {
+      "section_id": "S3",
+      "section_title": "Shipping FAQs",
+      "section_summary": "Covers package types, size limits, shipping costs, dimensional weight, packaging best practices, and delivery address changes.",
+      "keywords": ["shipping cost", "dimensional weight", "billable weight", "packaging", "size limits"],
+      "content": [
+        {
+          "content_id": "S3-C1",
+          "content_type": "paragraph",
+          "heading": "What Can Be Shipped and Size Limits",
+          "paragraph": "Documents, electronics, clothing, household items, business products, and many other permitted goods can be shipped. Maximum size and weight limits vary depending on the shipping service selected. Customers should verify whether specific items are permitted before creating a shipment.",
+          "semantic_tags": ["shippable items", "size limits", "package types"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "2", "topic": "Shipping", "subtopic": "Package Eligibility" }
+        },
+        {
+          "content_id": "S3-C2",
+          "content_type": "paragraph",
+          "heading": "Shipping Cost Calculation and Dimensional Weight",
+          "paragraph": "Shipping costs are calculated using factors such as weight, dimensions, destination, service type, and package value. Dimensional weight is a pricing method that considers package size in addition to actual weight. The greater of actual weight or dimensional weight is used as the billable weight. This ensures that large but lightweight packages are charged appropriately for the transportation space they occupy.",
+          "semantic_tags": ["shipping cost", "dimensional weight", "billable weight", "pricing"],
+          "important_entities": ["dimensional weight", "billable weight"],
+          "references": [],
+          "metadata": { "page_number": "2", "topic": "Shipping", "subtopic": "Pricing" }
+        },
+        {
+          "content_id": "S3-C3",
+          "content_type": "paragraph",
+          "heading": "Packaging Best Practices",
+          "paragraph": "Strong boxes, cushioning materials, protective wrapping, and secure sealing methods should be used. Reusing shipping boxes is acceptable provided the box remains strong, undamaged, and all previous shipping labels are removed. Proper packaging significantly reduces the risk of damage during transit.",
+          "semantic_tags": ["packaging", "reusable boxes", "cushioning", "damage prevention"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "2", "topic": "Shipping", "subtopic": "Packaging" }
+        },
+        {
+          "content_id": "S3-C4",
+          "content_type": "paragraph",
+          "heading": "Delivery Address Changes and Third-Party Receipt",
+          "paragraph": "Address changes may be possible depending on shipment status and carrier policies. Someone other than the intended recipient may accept a shipment unless specific delivery restrictions or signature requirements apply. If a package is damaged during shipping, the shipment may be inspected, claims procedures may be initiated, and compensation may be available depending on circumstances.",
+          "semantic_tags": ["address change", "recipient", "damage claim", "signature"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "2", "topic": "Shipping", "subtopic": "Delivery Options" }
+        }
+      ]
+    },
+    {
+      "section_id": "S4",
+      "section_title": "Delivery FAQs",
+      "section_summary": "Explains estimated delivery dates, delivery exceptions, failed delivery attempts, package pickup, and signature requirements.",
+      "keywords": ["estimated delivery date", "delivery exception", "failed delivery", "redelivery", "signature"],
+      "content": [
+        {
+          "content_id": "S4-C1",
+          "content_type": "paragraph",
+          "heading": "Estimated Delivery Date and Delivery Exceptions",
+          "paragraph": "The estimated delivery date is the expected date on which the shipment should arrive under normal transportation conditions. A delivery exception indicates that an unexpected event may affect shipment movement or delivery timing. Common causes include weather conditions, customs inspections, incorrect addresses, operational disruptions, and recipient availability issues.",
+          "semantic_tags": ["estimated delivery", "delivery exception", "delay"],
+          "important_entities": ["delivery exception"],
+          "references": [],
+          "metadata": { "page_number": "2", "topic": "Delivery", "subtopic": "Delivery Dates" }
+        },
+        {
+          "content_id": "S4-C2",
+          "content_type": "paragraph",
+          "heading": "Failed Delivery Attempts and Redelivery",
+          "paragraph": "If nobody is available during delivery, the carrier may attempt redelivery, leave a notification, or hold the shipment at a nearby facility. The number of delivery attempts varies depending on service type and local delivery policies. In many cases, packages can also be collected from designated facilities as an alternative to home delivery.",
+          "semantic_tags": ["failed delivery", "redelivery", "pickup", "door tag"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "2", "topic": "Delivery", "subtopic": "Failed Attempts" }
+        },
+        {
+          "content_id": "S4-C3",
+          "content_type": "paragraph",
+          "heading": "Signature-Required Shipments and Delivery Confirmation",
+          "paragraph": "Some shipments require a recipient signature to confirm package receipt before delivery is completed. Tracking information will update to \"Delivered\" once the package has been received and may include proof-of-delivery details such as delivery time, date, and recipient name.",
+          "semantic_tags": ["signature required", "proof of delivery", "delivery confirmation"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "2", "topic": "Delivery", "subtopic": "Signature and Confirmation" }
+        }
+      ]
+    },
+    {
+      "section_id": "S5",
+      "section_title": "Customer Support FAQs",
+      "section_summary": "Guidance on when and how to contact customer support, what information to provide, and what support can and cannot do.",
+      "keywords": ["customer support", "contact", "tracking history", "lost package", "shipment investigation"],
+      "content": [
+        {
+          "content_id": "S5-C1",
+          "content_type": "paragraph",
+          "heading": "When and How to Contact Support",
+          "paragraph": "Customers can contact support through phone, email, chat, or online service portals. Support should be contacted for shipment delays, tracking issues, address corrections, customs concerns, or damaged packages. When contacting support, customers should provide their tracking number, shipment details, sender information, and a description of the issue.",
+          "semantic_tags": ["customer support", "contact channels", "issue reporting"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "3", "topic": "Customer Support", "subtopic": "How to Contact" }
+        },
+        {
+          "content_id": "S5-C2",
+          "content_type": "paragraph",
+          "heading": "What Support Can and Cannot Do",
+          "paragraph": "Customer support can explain shipment statuses, provide tracking history, offer guidance on prohibited items, and help modify certain shipment details depending on status and service policies. Support can explain customs delays and documentation requirements but cannot override customs decisions. For lost packages, customers should contact support to initiate an investigation and shipment trace process.",
+          "semantic_tags": ["support capabilities", "customs", "lost package", "investigation"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "3", "topic": "Customer Support", "subtopic": "Capabilities and Limitations" }
+        }
+      ]
+    },
+    {
+      "section_id": "S6",
+      "section_title": "Customs and International Shipping FAQs",
+      "section_summary": "Covers customs clearance, required documentation, customs duties and taxes, inspection procedures, and common international shipping questions.",
+      "keywords": ["customs clearance", "commercial invoice", "customs duties", "import taxes", "export license", "customs broker"],
+      "content": [
+        {
+          "content_id": "S6-C1",
+          "content_type": "paragraph",
+          "heading": "Customs Clearance Process",
+          "paragraph": "Customs clearance is the process by which government authorities review and approve shipments entering or leaving a country to ensure compliance with import and export regulations. Customs agencies inspect shipments to verify documentation, collect duties and taxes, and ensure compliance with national laws. A shipment cannot proceed to final delivery until customs clearance has been completed successfully.",
+          "semantic_tags": ["customs clearance", "import", "export", "regulations"],
+          "important_entities": ["customs clearance"],
+          "references": [],
+          "metadata": { "page_number": "3", "topic": "Customs", "subtopic": "Clearance Process" }
+        },
+        {
+          "content_id": "S6-C2",
+          "content_type": "paragraph",
+          "heading": "Required International Shipping Documents",
+          "paragraph": "Common documents required for international shipping include commercial invoices, shipping labels, customs declarations, certificates of origin, and import or export permits when required. A commercial invoice describes the goods being shipped, their value, quantity, and country of origin, and is used by customs authorities to assess duties, taxes, and shipment eligibility. If customs documents are missing, the shipment may be delayed, placed on hold, returned, or rejected until the required documents are provided.",
+          "semantic_tags": ["commercial invoice", "customs declaration", "certificate of origin", "import permit"],
+          "important_entities": ["commercial invoice", "customs declaration", "certificate of origin"],
+          "references": [],
+          "metadata": { "page_number": "3", "topic": "Customs", "subtopic": "Documentation" }
+        },
+        {
+          "content_id": "S6-C3",
+          "content_type": "paragraph",
+          "heading": "Customs Duties, Taxes, and Inspections",
+          "paragraph": "Customs duties are government charges imposed on imported goods, calculated using shipment value, product classification, and destination-country regulations. Import taxes such as VAT and GST are fees collected by governments on products entering a country. In many cases, duties and taxes must be paid before delivery can proceed. Customs authorities have the legal authority to inspect shipments, open packages, request additional documentation, and seize prohibited or restricted items. Refund eligibility for customs fees depends on regulations and specific shipment circumstances.",
+          "semantic_tags": ["customs duties", "import taxes", "VAT", "inspection", "seizure"],
+          "important_entities": ["customs duties", "VAT", "GST"],
+          "references": [],
+          "metadata": { "page_number": "3-4", "topic": "Customs", "subtopic": "Duties and Taxes" }
+        },
+        {
+          "content_id": "S6-C4",
+          "content_type": "paragraph",
+          "heading": "International Shipping Restrictions and Costs",
+          "paragraph": "Shipping availability depends on service coverage, regulations, sanctions, and destination-country restrictions. Products commonly restricted internationally include firearms, alcohol, tobacco, hazardous materials, certain foods, medicines, and wildlife products. International shipments are generally more expensive because costs may include transportation, customs processing, duties, taxes, regulatory compliance, and handling fees. Customers can avoid delays by using accurate documentation, complying with regulations, and verifying destination-country requirements before shipping.",
+          "semantic_tags": ["restricted products", "international shipping costs", "compliance"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "4", "topic": "International Shipping", "subtopic": "Restrictions and Costs" }
+        }
+      ]
+    },
+    {
+      "section_id": "S7",
+      "section_title": "Money-Back Guarantee (MBG) Policy FAQs",
+      "section_summary": "Explains MBG eligibility, exclusions, how to file a claim, and where to find policy details.",
+      "keywords": ["MBG", "money-back guarantee", "refund", "service failure", "claim"],
+      "content": [
+        {
+          "content_id": "S7-C1",
+          "content_type": "paragraph",
+          "heading": "Understanding the Money-Back Guarantee",
+          "paragraph": "A Money-Back Guarantee (MBG) is a policy that may provide shipping refunds when service commitments are not met under eligible conditions. Not every shipment qualifies; eligibility depends on service type, destination, and specific policy conditions. Eligible service failures such as missed delivery commitments may qualify under policy guidelines. Weather events, customs delays, natural disasters, and other uncontrollable circumstances are commonly excluded.",
+          "semantic_tags": ["MBG", "refund", "service failure", "eligibility", "exclusions"],
+          "important_entities": ["Money-Back Guarantee", "MBG"],
+          "references": [],
+          "metadata": { "page_number": "4", "topic": "MBG", "subtopic": "Policy Overview" }
+        },
+        {
+          "content_id": "S7-C2",
+          "content_type": "paragraph",
+          "heading": "Filing an MBG Claim",
+          "paragraph": "Customers typically submit a refund request along with shipment details and supporting information. Shipment records and tracking information are generally used to verify eligibility. Claim submission deadlines depend on company policy and service type. Some international services may also qualify, subject to policy terms and exclusions. Customers should review the official Money-Back Guarantee policy documentation for complete eligibility and claim requirements.",
+          "semantic_tags": ["MBG claim", "refund request", "claim deadline", "international MBG"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "4", "topic": "MBG", "subtopic": "Claim Process" }
+        }
+      ]
+    },
+    {
+      "section_id": "S8",
+      "section_title": "Prohibited Items FAQs",
+      "section_summary": "Overview of prohibited item categories including explosives, firearms, illegal drugs, counterfeit goods, lithium batteries, and live animals.",
+      "keywords": ["prohibited items", "explosives", "firearms", "illegal drugs", "counterfeit goods", "lithium batteries", "live animals"],
+      "content": [
+        {
+          "content_id": "S8-C1",
+          "content_type": "paragraph",
+          "heading": "What Are Prohibited Items and Why They Exist",
+          "paragraph": "A prohibited item is any product or material that cannot be transported because it violates safety, security, legal, or regulatory requirements. Certain items create risks such as fire, explosion, contamination, injury, criminal activity, or regulatory violations. Customers should review shipping policies or contact customer support before creating a shipment to verify whether a specific product is allowed.",
+          "semantic_tags": ["prohibited items", "safety risks", "regulatory compliance"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "4", "topic": "Prohibited Items", "subtopic": "Definition" }
+        },
+        {
+          "content_id": "S8-C2",
+          "content_type": "paragraph",
+          "heading": "Key Prohibited Item Categories",
+          "paragraph": "Explosives and fireworks are generally prohibited due to significant safety risks. Firearms are heavily regulated and may only be transported under specific legal conditions. Ammunition is restricted because it contains explosive components. Illegal drugs and unauthorized controlled substances are strictly prohibited. Counterfeit products are prohibited and may be confiscated by customs. Hazardous chemicals and flammable materials are regulated or prohibited depending on transportation rules. Most standard shipping services do not accept live animals, and radioactive materials require specialized handling.",
+          "semantic_tags": ["explosives", "firearms", "drugs", "counterfeit", "hazardous", "radioactive", "live animals"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "4-5", "topic": "Prohibited Items", "subtopic": "Categories" }
+        },
+        {
+          "content_id": "S8-C3",
+          "content_type": "paragraph",
+          "heading": "Lithium Batteries and Prescription Medicines",
+          "paragraph": "Some lithium batteries may be accepted under specific packaging and labeling requirements because damaged or improperly handled batteries may overheat, catch fire, or explode. Some prescription medicines may be shipped legally, but controlled medications often require special authorization and documentation before transportation.",
+          "semantic_tags": ["lithium batteries", "prescription medicines", "controlled substances"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "5", "topic": "Prohibited Items", "subtopic": "Special Cases" }
+        }
+      ]
+    },
+    {
+      "section_id": "S9",
+      "section_title": "Delivery Exception FAQs",
+      "section_summary": "Explains delivery exceptions, their common causes, resolution timelines, and customer actions.",
+      "keywords": ["delivery exception", "weather delay", "recipient unavailable", "customs hold", "address correction"],
+      "content": [
+        {
+          "content_id": "S9-C1",
+          "content_type": "paragraph",
+          "heading": "What Delivery Exceptions Are and Common Causes",
+          "paragraph": "A delivery exception is a status indicating that an unexpected event may affect shipment movement or delivery schedules. Most delivery exceptions are temporary and do not mean the shipment is lost. Common causes include weather conditions, customs delays, address issues, transportation disruptions, and recipient unavailability. \"Recipient Unavailable\" means the delivery driver attempted delivery but could not reach the recipient. \"Business Closed\" means delivery was attempted when the business location was not operating.",
+          "semantic_tags": ["delivery exception", "temporary delay", "causes"],
+          "important_entities": ["delivery exception"],
+          "references": [],
+          "metadata": { "page_number": "5", "topic": "Delivery Exceptions", "subtopic": "Definition and Causes" }
+        },
+        {
+          "content_id": "S9-C2",
+          "content_type": "paragraph",
+          "heading": "Resolving Delivery Exceptions",
+          "paragraph": "Many delivery exceptions are resolved without customer intervention once conditions improve. Customers should monitor tracking updates and respond promptly if additional information is requested. Resolution times vary depending on the cause and complexity of the issue. Severe weather may delay transportation temporarily but rarely results in permanent shipment cancellation. In many cases, delivery can be rescheduled depending on shipment status and available service options.",
+          "semantic_tags": ["exception resolution", "redelivery", "tracking updates"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "5", "topic": "Delivery Exceptions", "subtopic": "Resolution" }
+        }
+      ]
+    },
+    {
+      "section_id": "S10",
+      "section_title": "Returns and Refunds FAQs",
+      "section_summary": "Covers return shipments, reverse logistics, who pays return costs, refund eligibility, and processing timelines.",
+      "keywords": ["return shipment", "reverse logistics", "refund", "return label", "MBG"],
+      "content": [
+        {
+          "content_id": "S10-C1",
+          "content_type": "paragraph",
+          "heading": "Return Shipments and Reverse Logistics",
+          "paragraph": "A return shipment is the transportation of goods back to the sender or seller. Returns may occur because of defects, incorrect items, customer dissatisfaction, or order changes. Reverse logistics refers to the movement of products from customers back to sellers or manufacturers. Return labels, return authorizations, or seller instructions are typically required to initiate a return. Return shipments generally receive tracking numbers similar to outbound shipments.",
+          "semantic_tags": ["return shipment", "reverse logistics", "return label"],
+          "important_entities": ["reverse logistics"],
+          "references": [],
+          "metadata": { "page_number": "5", "topic": "Returns", "subtopic": "Process" }
+        },
+        {
+          "content_id": "S10-C2",
+          "content_type": "paragraph",
+          "heading": "Refund Eligibility and Processing",
+          "paragraph": "A refund is the return of money paid for products or shipping services under eligible circumstances. Refund eligibility depends on service policies, shipment outcomes, and applicable guarantees. Certain service failures may qualify under Money-Back Guarantee policies. Tracking numbers, shipment details, and supporting documentation are typically required for a refund request. Processing times vary depending on claim reviews, payment methods, and company policies.",
+          "semantic_tags": ["refund", "MBG", "refund eligibility", "processing time"],
+          "important_entities": ["Money-Back Guarantee"],
+          "references": [],
+          "metadata": { "page_number": "5-6", "topic": "Refunds", "subtopic": "Eligibility and Process" }
+        }
+      ]
+    },
+    {
+      "section_id": "S11",
+      "section_title": "Business Shipping and Supply Chain FAQs",
+      "section_summary": "Covers business shipping needs, shipment visibility, order fulfillment, warehouse operations, logistics concepts, and supply chain management.",
+      "keywords": ["business shipping", "supply chain", "logistics", "order fulfillment", "warehouse", "last-mile delivery", "inventory management"],
+      "content": [
+        {
+          "content_id": "S11-C1",
+          "content_type": "paragraph",
+          "heading": "Business Shipping Overview",
+          "paragraph": "Business shipping refers to the transportation of products, inventory, documents, and commercial goods between businesses, suppliers, warehouses, and customers. Unlike personal shipping, business shipping typically involves higher shipment volumes, recurring deliveries, commercial documentation, and supply chain requirements. Bulk shipping involves transporting large quantities in a single shipment to improve efficiency and reduce costs. Businesses use shipment management systems that allow tracking of multiple packages and orders simultaneously.",
+          "semantic_tags": ["business shipping", "bulk shipping", "recurring shipment", "shipment visibility"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "6", "topic": "Business Shipping", "subtopic": "Overview" }
+        },
+        {
+          "content_id": "S11-C2",
+          "content_type": "paragraph",
+          "heading": "Warehouse Operations",
+          "paragraph": "A warehouse is a facility used for storing, organizing, processing, and distributing goods before delivery. Core warehouse operations include receiving, storage, inventory management, order picking, packing, sorting, and shipping. Barcodes help track inventory, improve accuracy, and automate shipment processing. Warehouse automation uses technology such as scanners, robots, and software to improve efficiency. A distribution center is a specialized warehouse focused on rapidly moving products to customers or retail locations.",
+          "semantic_tags": ["warehouse", "inventory management", "order picking", "distribution center", "automation"],
+          "important_entities": ["distribution center"],
+          "references": [],
+          "metadata": { "page_number": "6", "topic": "Warehouse Operations", "subtopic": "Core Functions" }
+        },
+        {
+          "content_id": "S11-C3",
+          "content_type": "paragraph",
+          "heading": "Logistics and Supply Chain Concepts",
+          "paragraph": "Logistics is the process of planning, implementing, and managing the movement of goods from origin to destination. A supply chain is a network of suppliers, manufacturers, warehouses, transportation providers, and customers involved in product movement. Last-mile delivery is the final stage of transportation where packages reach the recipient. Shipment consolidation combines multiple shipments into a single transportation unit to improve efficiency. Route optimization identifies the most efficient delivery routes to reduce time and costs.",
+          "semantic_tags": ["logistics", "supply chain", "last-mile delivery", "consolidation", "route optimization"],
+          "important_entities": ["supply chain", "last-mile delivery"],
+          "references": [],
+          "metadata": { "page_number": "6-7", "topic": "Logistics", "subtopic": "Core Concepts" }
+        }
+      ]
+    },
+    {
+      "section_id": "S12",
+      "section_title": "FedAssist Chatbot and System FAQs",
+      "section_summary": "Describes FedAssist, how it works, the knowledge base, RAG technology, and the chatbot's capabilities and limitations.",
+      "keywords": ["FedAssist", "chatbot", "RAG", "knowledge base", "AI", "retrieval"],
+      "content": [
+        {
+          "content_id": "S12-C1",
+          "content_type": "paragraph",
+          "heading": "What Is FedAssist and How It Works",
+          "paragraph": "FedAssist is an AI-powered logistics assistant designed to answer shipping, tracking, customs, and delivery-related questions. It retrieves information from its knowledge base and generates responses using AI and retrieval systems. Retrieval-Augmented Generation (RAG) combines document retrieval with AI-generated responses to improve answer accuracy. High-quality documents improve retrieval accuracy and chatbot response quality.",
+          "semantic_tags": ["FedAssist", "chatbot", "RAG", "knowledge base", "AI assistant"],
+          "important_entities": ["FedAssist", "RAG"],
+          "references": [],
+          "metadata": { "page_number": "7", "topic": "FedAssist", "subtopic": "System Overview" }
+        },
+        {
+          "content_id": "S12-C2",
+          "content_type": "paragraph",
+          "heading": "FedAssist Capabilities and Knowledge Sources",
+          "paragraph": "FedAssist uses service guides, tracking guides, shipping guides, customs guides, MBG policies, prohibited items guides, delivery exception guides, glossaries, and FAQ datasets. The chatbot can explain tracking statuses, shipment progress, delivery updates, and logistics terminology. When no relevant information is found, FedAssist should inform the user and recommend contacting support if necessary. The goal of FedAssist is to provide accurate, fast, and helpful logistics support for customers, recipients, business shippers, and operations staff.",
+          "semantic_tags": ["FedAssist capabilities", "knowledge sources", "escalation"],
+          "important_entities": ["FedAssist"],
+          "references": [],
+          "metadata": { "page_number": "7", "topic": "FedAssist", "subtopic": "Capabilities" }
+        }
+      ]
+    }
+  ]
+}

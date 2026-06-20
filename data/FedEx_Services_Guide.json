@@ -1,0 +1,297 @@
+{
+  "document_title": "FedEx Services Guide",
+  "document_type": "service_guide",
+  "source": "FedEx_Services_Guide.docx",
+  "language": "en",
+  "created_at": "2024-01-01",
+  "sections": [
+    {
+      "section_id": "FSG-S01",
+      "section_title": "Service Overview",
+      "section_summary": "High-level description of FedEx as a company and the breadth of its logistics and transportation offerings.",
+      "keywords": ["FedEx", "logistics", "transportation", "shipping services", "global network", "supply chain"],
+      "content": [
+        {
+          "content_id": "FSG-S01-C01",
+          "content_type": "paragraph",
+          "heading": "FedEx Company Overview",
+          "paragraph": "FedEx is one of the world's largest logistics and transportation companies, providing a wide range of shipping and supply chain solutions to individuals, small businesses, large enterprises, and government organizations. The company operates a global transportation network that connects customers to more than 220 countries and territories. FedEx offers services designed to meet different shipping requirements, including express delivery, ground transportation, freight shipping, international logistics, customs support, and supply chain management. The primary objective of FedEx services is to ensure reliable, secure, and timely delivery of shipments. Customers can choose services based on delivery speed, shipment size, destination, package value, and budget.",
+          "semantic_tags": ["FedEx overview", "global network", "logistics services", "shipping solutions"],
+          "important_entities": ["FedEx"],
+          "references": [],
+          "metadata": {
+            "page_number": "1",
+            "topic": "Service Overview",
+            "subtopic": "Company Profile"
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "FSG-S02",
+      "section_title": "Detailed Service Descriptions",
+      "section_summary": "Descriptions of each FedEx service including Ground, Home Delivery, Express, Overnight, 2Day, International, Freight, and SameDay.",
+      "keywords": ["FedEx Ground", "FedEx Home Delivery", "FedEx Express", "FedEx Priority Overnight", "FedEx Standard Overnight", "FedEx 2Day", "FedEx International Priority", "FedEx International Economy", "FedEx Freight", "FedEx SameDay"],
+      "content": [
+        {
+          "content_id": "FSG-S02-C01",
+          "content_type": "paragraph",
+          "heading": "FedEx Ground",
+          "paragraph": "FedEx Ground is a cost-effective domestic shipping service designed for packages that do not require urgent delivery. It uses a vast ground transportation network of trucks, sorting hubs, and regional distribution centers, and is commonly used by e-commerce businesses, retailers, manufacturers, and individual customers who prioritize affordability over speed. The service provides dependable day-definite delivery and supports packages weighing up to 150 pounds. Customers receive shipment tracking throughout the transportation process, enabling visibility from pickup to final delivery.",
+          "semantic_tags": ["FedEx Ground", "domestic shipping", "cost-effective", "day-definite", "ground transport"],
+          "important_entities": ["FedEx Ground"],
+          "references": [],
+          "metadata": {
+            "page_number": "2",
+            "topic": "Service Descriptions",
+            "subtopic": "FedEx Ground"
+          }
+        },
+        {
+          "content_id": "FSG-S02-C02",
+          "content_type": "paragraph",
+          "heading": "FedEx Home Delivery",
+          "paragraph": "FedEx Home Delivery is specifically designed for residential shipments, extending the capabilities of the FedEx Ground network to deliver directly to homes. It offers flexible delivery schedules including evening and weekend delivery options in many areas. Home Delivery is particularly useful for online shopping purchases, consumer goods, and residential shipments that require convenience and scheduling flexibility.",
+          "semantic_tags": ["FedEx Home Delivery", "residential shipping", "evening delivery", "weekend delivery"],
+          "important_entities": ["FedEx Home Delivery"],
+          "references": [],
+          "metadata": {
+            "page_number": "2",
+            "topic": "Service Descriptions",
+            "subtopic": "FedEx Home Delivery"
+          }
+        },
+        {
+          "content_id": "FSG-S02-C03",
+          "content_type": "paragraph",
+          "heading": "FedEx Express",
+          "paragraph": "FedEx Express is the company's premium express transportation network, designed for time-sensitive shipments that require rapid movement across domestic and international markets. It utilizes air transportation combined with advanced logistics infrastructure to provide fast and reliable delivery commitments. FedEx Express is widely used for legal documents, medical supplies, financial paperwork, electronics, and urgent business shipments.",
+          "semantic_tags": ["FedEx Express", "air transportation", "time-sensitive", "urgent shipments"],
+          "important_entities": ["FedEx Express"],
+          "references": [],
+          "metadata": {
+            "page_number": "2",
+            "topic": "Service Descriptions",
+            "subtopic": "FedEx Express"
+          }
+        },
+        {
+          "content_id": "FSG-S02-C04",
+          "content_type": "paragraph",
+          "heading": "FedEx Priority Overnight and Standard Overnight",
+          "paragraph": "FedEx Priority Overnight provides next-business-day delivery, typically by morning or early afternoon, and is intended for shipments requiring the fastest possible delivery without same-day transportation. It includes shipment visibility, tracking updates, delivery confirmation, and eligibility for certain service guarantees. FedEx Standard Overnight also provides next-business-day delivery but generally delivers later in the day, offering a balance between speed and cost for customers who need overnight transportation without requiring an early-morning window.",
+          "semantic_tags": ["Priority Overnight", "Standard Overnight", "next-day delivery", "overnight shipping"],
+          "important_entities": ["FedEx Priority Overnight", "FedEx Standard Overnight"],
+          "references": [],
+          "metadata": {
+            "page_number": "2",
+            "topic": "Service Descriptions",
+            "subtopic": "Overnight Services"
+          }
+        },
+        {
+          "content_id": "FSG-S02-C05",
+          "content_type": "paragraph",
+          "heading": "FedEx 2Day",
+          "paragraph": "FedEx 2Day delivers shipments within two business days and is designed for medium-priority shipments that require relatively fast transportation while remaining more affordable than overnight services. Businesses often use this service for customer orders, replacement parts, and inventory replenishment where speed matters but same-day or next-day delivery is not required.",
+          "semantic_tags": ["FedEx 2Day", "two-day delivery", "medium priority", "business shipping"],
+          "important_entities": ["FedEx 2Day"],
+          "references": [],
+          "metadata": {
+            "page_number": "2",
+            "topic": "Service Descriptions",
+            "subtopic": "FedEx 2Day"
+          }
+        },
+        {
+          "content_id": "FSG-S02-C06",
+          "content_type": "paragraph",
+          "heading": "FedEx International Priority and International Economy",
+          "paragraph": "FedEx International Priority is a premium international shipping service for urgent cross-border shipments, combining rapid transportation with customs clearance support to move packages efficiently between countries. It is frequently used by multinational corporations, exporters, and businesses engaged in global trade. FedEx International Economy offers lower-cost international shipping for customers who can accommodate slightly longer transit times, providing global reach while helping organizations reduce shipping expenses.",
+          "semantic_tags": ["International Priority", "International Economy", "cross-border", "customs clearance", "global trade"],
+          "important_entities": ["FedEx International Priority", "FedEx International Economy"],
+          "references": [],
+          "metadata": {
+            "page_number": "3",
+            "topic": "Service Descriptions",
+            "subtopic": "International Services"
+          }
+        },
+        {
+          "content_id": "FSG-S02-C07",
+          "content_type": "paragraph",
+          "heading": "FedEx Freight and FedEx SameDay",
+          "paragraph": "FedEx Freight is designed for large and heavy shipments that exceed standard parcel limitations, supporting less-than-truckload (LTL) freight movement so multiple customers can share transportation resources efficiently. Industries such as manufacturing, construction, automotive, and wholesale distribution commonly rely on this service. FedEx SameDay is the fastest transportation solution FedEx offers, intended for emergency shipments, medical deliveries, critical business materials, and highly urgent customer requirements, providing rapid pickup, direct transportation, and same-day delivery.",
+          "semantic_tags": ["FedEx Freight", "LTL", "FedEx SameDay", "emergency delivery", "heavy cargo"],
+          "important_entities": ["FedEx Freight", "FedEx SameDay"],
+          "references": [],
+          "metadata": {
+            "page_number": "3",
+            "topic": "Service Descriptions",
+            "subtopic": "Freight and SameDay"
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "FSG-S03",
+      "section_title": "Features, Benefits, and Eligibility",
+      "section_summary": "Key features and benefits of FedEx services, package limits, eligibility requirements, and delivery commitments.",
+      "keywords": ["shipment tracking", "proof of delivery", "package limits", "eligibility", "delivery commitments", "150 pounds"],
+      "content": [
+        {
+          "content_id": "FSG-S03-C01",
+          "content_type": "paragraph",
+          "heading": "Key Features and Benefits",
+          "paragraph": "FedEx services include shipment tracking, proof of delivery, estimated delivery dates, customs clearance assistance, international transportation support, secure package handling, delivery notifications, address validation, and customer support. Advanced tracking systems enable customers to monitor package movement in real time. Businesses benefit from reliable delivery commitments, reduced operational delays, the ability to expand into international markets, and streamlined logistics processes. Individual customers gain convenience, flexibility, and reliability when sending or receiving packages.",
+          "semantic_tags": ["features", "benefits", "tracking", "proof of delivery", "delivery notifications"],
+          "important_entities": ["FedEx"],
+          "references": [],
+          "metadata": {
+            "page_number": "3",
+            "topic": "Features and Benefits",
+            "subtopic": "Service Capabilities"
+          }
+        },
+        {
+          "content_id": "FSG-S03-C02",
+          "content_type": "paragraph",
+          "heading": "Package Limits and Eligibility Requirements",
+          "paragraph": "Most FedEx parcel services support packages weighing up to 150 pounds, and packages must comply with dimensional limitations established by FedEx transportation guidelines. Customers must comply with shipping regulations, packaging requirements, and transportation policies; packages must be properly packaged, accurately labeled, and free from prohibited or restricted contents. Heavy, oversized, or unusually shaped shipments may require special handling or freight transportation services. International shipments may additionally require customs documentation, commercial invoices, and regulatory compliance depending on the destination country.",
+          "semantic_tags": ["package weight limit", "150 pounds", "eligibility", "packaging requirements", "dimensional limits"],
+          "important_entities": ["FedEx"],
+          "references": [],
+          "metadata": {
+            "page_number": "3",
+            "topic": "Eligibility",
+            "subtopic": "Package Limits"
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "FSG-S04",
+      "section_title": "Use Cases and Industry Examples",
+      "section_summary": "Real-world applications of FedEx services across industries and customer types.",
+      "keywords": ["use cases", "industry examples", "healthcare", "e-commerce", "manufacturing", "retail", "technology"],
+      "content": [
+        {
+          "content_id": "FSG-S04-C01",
+          "content_type": "paragraph",
+          "heading": "Common Use Cases Across Industries",
+          "paragraph": "FedEx services support a wide variety of shipping scenarios. Businesses use FedEx to deliver products to customers, distribute inventory, transport legal documents, move medical supplies, and support supply chain operations. The healthcare industry relies on FedEx Express and SameDay to transport medical equipment, laboratory samples, and pharmaceutical products. The e-commerce industry uses FedEx Ground and Home Delivery to fulfill customer orders efficiently. Manufacturing organizations use FedEx Freight to transport raw materials and finished products, while financial institutions depend on express services for sensitive documents. Technology companies utilize international shipping services to distribute electronics worldwide.",
+          "semantic_tags": ["use cases", "healthcare", "e-commerce", "manufacturing", "technology", "financial services"],
+          "important_entities": ["FedEx Express", "FedEx SameDay", "FedEx Ground", "FedEx Home Delivery", "FedEx Freight"],
+          "references": [],
+          "metadata": {
+            "page_number": "4",
+            "topic": "Use Cases",
+            "subtopic": "Industry Applications"
+          }
+        },
+        {
+          "content_id": "FSG-S04-C02",
+          "content_type": "paragraph",
+          "heading": "Customer Scenario Examples",
+          "paragraph": "A small online retailer shipping products to customers within the country may choose FedEx Ground because of its affordability. A law firm sending urgent contracts may select Priority Overnight to ensure next-day delivery. A multinational company shipping products to Europe may use International Priority to minimize transit time. A hospital requiring emergency medical equipment could rely on FedEx SameDay, while a manufacturing company moving industrial components may choose FedEx Freight. These scenarios illustrate how service selection should be based on urgency, destination, shipment size, and budget.",
+          "semantic_tags": ["customer scenarios", "service selection", "use case examples"],
+          "important_entities": ["FedEx Ground", "FedEx Priority Overnight", "FedEx International Priority", "FedEx SameDay", "FedEx Freight"],
+          "references": [],
+          "metadata": {
+            "page_number": "4",
+            "topic": "Use Cases",
+            "subtopic": "Customer Scenarios"
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "FSG-S05",
+      "section_title": "Service Comparison and Selection Guidance",
+      "section_summary": "Comparison of FedEx services by speed, cost, and use case to guide service selection.",
+      "keywords": ["service comparison", "Ground vs Express", "affordability", "speed", "international", "freight"],
+      "content": [
+        {
+          "content_id": "FSG-S05-C01",
+          "content_type": "paragraph",
+          "heading": "Comparing FedEx Services",
+          "paragraph": "FedEx Ground focuses on affordability and reliability for domestic non-urgent shipments. FedEx Home Delivery specializes in residential deliveries with flexible scheduling. FedEx Express prioritizes speed and time-sensitive transportation. Priority Overnight offers early next-day delivery, while Standard Overnight delivers by end of the next business day. FedEx 2Day balances speed and cost. International Priority emphasizes urgent global shipments, whereas International Economy reduces costs for less time-sensitive international movements. FedEx Freight handles heavy cargo, and SameDay provides the fastest transportation available. Customers should select services based on urgency, destination, shipment size, and budget.",
+          "semantic_tags": ["service comparison", "service selection", "speed vs cost", "delivery commitment"],
+          "important_entities": ["FedEx Ground", "FedEx Home Delivery", "FedEx Express", "FedEx Priority Overnight", "FedEx Standard Overnight", "FedEx 2Day", "FedEx International Priority", "FedEx International Economy", "FedEx Freight", "FedEx SameDay"],
+          "references": [],
+          "metadata": {
+            "page_number": "4",
+            "topic": "Service Comparison",
+            "subtopic": "Selection Guidance"
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "FSG-S06",
+      "section_title": "Tracking and International Coverage",
+      "section_summary": "Overview of FedEx tracking capabilities and global shipping network reach.",
+      "keywords": ["tracking", "global coverage", "220 countries", "international network", "customs support"],
+      "content": [
+        {
+          "content_id": "FSG-S06-C01",
+          "content_type": "paragraph",
+          "heading": "Tracking Support and Global Network",
+          "paragraph": "FedEx provides shipment tracking across most services. Customers receive a unique tracking number to monitor package movement from pickup through delivery. Common tracking statuses include Label Created, Picked Up, In Transit, At Local Facility, Out for Delivery, Delivered, and Shipment Exception. FedEx operates one of the largest global logistics networks in the world, providing shipping services to more than 220 countries and territories across North America, South America, Europe, Asia, Africa, and Oceania. International services include transportation, customs support, regulatory compliance assistance, and global delivery capabilities.",
+          "semantic_tags": ["tracking", "global network", "220 countries", "tracking statuses", "international coverage"],
+          "important_entities": ["FedEx"],
+          "references": [],
+          "metadata": {
+            "page_number": "5",
+            "topic": "Tracking and Coverage",
+            "subtopic": "Global Reach"
+          }
+        }
+      ]
+    },
+    {
+      "section_id": "FSG-S07",
+      "section_title": "Frequently Asked Questions",
+      "section_summary": "Common questions and answers about FedEx services.",
+      "keywords": ["FAQ", "fastest service", "international shipping", "tracking", "Priority Overnight", "FedEx Ground", "freight"],
+      "content": [
+        {
+          "content_id": "FSG-S07-C01",
+          "content_type": "faq",
+          "question": "What is the fastest FedEx service?",
+          "answer": "FedEx SameDay is generally considered the fastest transportation option available."
+        },
+        {
+          "content_id": "FSG-S07-C02",
+          "content_type": "faq",
+          "question": "Which service is best for international shipping?",
+          "answer": "FedEx International Priority is recommended for urgent international shipments, while FedEx International Economy is suitable for cost-sensitive international shipments."
+        },
+        {
+          "content_id": "FSG-S07-C03",
+          "content_type": "faq",
+          "question": "Can all FedEx shipments be tracked?",
+          "answer": "Most FedEx services include shipment tracking and delivery visibility features."
+        },
+        {
+          "content_id": "FSG-S07-C04",
+          "content_type": "faq",
+          "question": "What is the difference between Priority Overnight and Standard Overnight?",
+          "answer": "Priority Overnight delivers earlier in the day, while Standard Overnight delivers by the end of the next business day."
+        },
+        {
+          "content_id": "FSG-S07-C05",
+          "content_type": "faq",
+          "question": "Which FedEx service is most affordable for domestic shipping?",
+          "answer": "FedEx Ground is generally one of the most economical domestic shipping options."
+        },
+        {
+          "content_id": "FSG-S07-C06",
+          "content_type": "faq",
+          "question": "Can FedEx transport large cargo shipments?",
+          "answer": "Yes. FedEx Freight is specifically designed for large, heavy, and commercial freight shipments."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "document_title": "Dimensional Weight Guide",
+  "document_type": "Pricing and Billing Guide",
+  "source": "Dimensional_Weight_Guide.docx",
+  "language": "English",
+  "created_at": "2024",
+  "sections": [
+    {
+      "section_id": "S1",
+      "section_title": "Introduction to Dimensional Weight",
+      "section_summary": "Explains what dimensional weight is, why it exists, and the core concept of billing based on space rather than physical weight alone.",
+      "keywords": ["dimensional weight", "DIM weight", "billable weight", "pricing method", "transportation space"],
+      "content": [
+        {
+          "content_id": "S1-C1",
+          "content_type": "paragraph",
+          "heading": "What Is Dimensional Weight?",
+          "paragraph": "Dimensional Weight, often called DIM Weight, is a pricing method used by logistics companies to determine shipping charges based on the amount of space a package occupies during transportation. Unlike traditional pricing methods that rely solely on actual package weight, dimensional weight considers both the size and weight of a shipment. The purpose of this pricing approach is to ensure fair transportation costs. Large but lightweight packages consume significant space inside trucks, aircraft, and sorting facilities. Even though these packages may not be heavy, they reduce the amount of cargo that can be transported alongside them. For example, a large box containing pillows may weigh only 3 kilograms but occupy the same transportation space as a 15-kilogram shipment.",
+          "semantic_tags": ["dimensional weight", "DIM weight", "space-based pricing", "fair pricing"],
+          "important_entities": ["dimensional weight", "DIM weight"],
+          "references": [],
+          "metadata": { "page_number": "1", "topic": "Dimensional Weight", "subtopic": "Introduction" }
+        },
+        {
+          "content_id": "S1-C2",
+          "content_type": "paragraph",
+          "heading": "Why Dimensional Weight Pricing Exists",
+          "paragraph": "Modern logistics networks have limited transportation capacity. Every truck, aircraft, cargo container, and warehouse has physical space constraints. Transportation companies must balance two resources: weight capacity and volume capacity. Sometimes transportation vehicles reach their volume limits before reaching their weight limits, meaning large lightweight shipments can fill available cargo space while contributing very little actual weight. Dimensional weight pricing helps logistics providers recover transportation costs associated with occupied space and encourages customers to use efficient packaging practices. Without dimensional weight pricing, shipping companies would face significant operational inefficiencies and increased transportation costs.",
+          "semantic_tags": ["capacity constraints", "volume capacity", "weight capacity", "operational efficiency"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "1", "topic": "Dimensional Weight", "subtopic": "Why It Exists" }
+        }
+      ]
+    },
+    {
+      "section_id": "S2",
+      "section_title": "Actual Weight, Dimensional Weight, and Billable Weight",
+      "section_summary": "Explains the difference between actual weight, dimensional weight, and how the greater of the two becomes the billable weight.",
+      "keywords": ["actual weight", "dimensional weight", "billable weight", "greater weight", "billing"],
+      "content": [
+        {
+          "content_id": "S2-C1",
+          "content_type": "paragraph",
+          "heading": "Actual Weight vs. Dimensional Weight",
+          "paragraph": "Actual weight refers to the physical weight of a package measured using a scale. For many dense products such as books, metal parts, or electronics, actual weight is greater than dimensional weight, and in such cases actual weight becomes the billable weight. Dimensional weight is a calculated value based on package dimensions — specifically length, width, and height — that represents the amount of transportation space occupied by the shipment. Dimensional weight converts package volume into an equivalent shipping weight to ensure that large packages are charged appropriately even when they are relatively lightweight.",
+          "semantic_tags": ["actual weight", "dimensional weight", "volume", "dense products"],
+          "important_entities": ["actual weight", "dimensional weight"],
+          "references": [],
+          "metadata": { "page_number": "1", "topic": "Weight Types", "subtopic": "Actual vs Dimensional" }
+        },
+        {
+          "content_id": "S2-C2",
+          "content_type": "paragraph",
+          "heading": "Billable Weight Concept with Examples",
+          "paragraph": "Shipping charges are based on Billable Weight, which is the greater of actual weight or dimensional weight. If a package has an actual weight of 8 kg and a dimensional weight of 12 kg, the billable weight is 12 kg because dimensional weight is higher. Conversely, if actual weight is 15 kg and dimensional weight is 10 kg, the billable weight is 15 kg. This approach ensures that transportation pricing reflects either occupied space or physical weight, whichever creates the greater transportation demand.",
+          "semantic_tags": ["billable weight", "greater weight", "pricing examples"],
+          "important_entities": ["billable weight"],
+          "references": [],
+          "metadata": { "page_number": "2", "topic": "Billable Weight", "subtopic": "Calculation Examples" }
+        }
+      ]
+    },
+    {
+      "section_id": "S3",
+      "section_title": "Dimensional Weight Formula and Calculation",
+      "section_summary": "Explains the dimensional weight formula including the DIM divisor, how to apply it, and the impact of package dimensions on shipping cost.",
+      "keywords": ["dimensional weight formula", "DIM divisor", "length width height", "volume", "calculation"],
+      "content": [
+        {
+          "content_id": "S3-C1",
+          "content_type": "paragraph",
+          "heading": "Standard Dimensional Weight Formula",
+          "paragraph": "Most logistics providers use the formula: Dimensional Weight = (Length × Width × Height) ÷ DIM Divisor. Length is the longest side of the package, Width is the second longest side, and Height is the remaining side. The DIM Divisor is a carrier-specific conversion factor. For example, a package measuring 50 cm × 40 cm × 30 cm has a volume of 60,000 cubic centimeters. Using a DIM divisor of 5,000, the dimensional weight would be 60,000 ÷ 5,000 = 12 kg. Customers should use their carrier's specific divisor when calculating dimensional weight.",
+          "semantic_tags": ["dimensional weight formula", "DIM divisor", "cubic centimeters", "calculation"],
+          "important_entities": ["DIM divisor"],
+          "references": [],
+          "metadata": { "page_number": "2", "topic": "Formula", "subtopic": "Calculation Method" }
+        },
+        {
+          "content_id": "S3-C2",
+          "content_type": "paragraph",
+          "heading": "Impact of Package Size on Dimensional Weight",
+          "paragraph": "Package dimensions directly affect shipping costs, and even small increases in package size can significantly increase dimensional weight. For example, a package measuring 40 cm × 30 cm × 20 cm has a volume of 24,000 cubic centimeters, while a larger package measuring 60 cm × 40 cm × 30 cm has a volume of 72,000 cubic centimeters. Although both packages may contain identical products, the larger one occupies three times more transportation space and therefore generates a much higher dimensional weight. Customers should avoid oversized packaging whenever possible to minimize shipping costs.",
+          "semantic_tags": ["package size", "volume impact", "oversized packaging", "cost savings"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "2", "topic": "Formula", "subtopic": "Size Impact" }
+        }
+      ]
+    },
+    {
+      "section_id": "S4",
+      "section_title": "Packaging, Cost Optimization, and Dimensional Weight",
+      "section_summary": "Explains how packaging decisions influence dimensional weight costs and best practices for packaging optimization.",
+      "keywords": ["packaging optimization", "oversized box", "shipping costs", "packaging efficiency", "cost reduction"],
+      "content": [
+        {
+          "content_id": "S4-C1",
+          "content_type": "paragraph",
+          "heading": "How Packaging Decisions Influence Shipping Costs",
+          "paragraph": "Packaging decisions directly influence transportation expenses. Poor packaging practices often increase dimensional weight unnecessarily. Common mistakes include using oversized boxes, leaving excessive empty space, adding unnecessary packaging layers, and selecting inefficient carton sizes. Optimized packaging helps reduce shipping costs, improve transportation efficiency, reduce environmental impact, and increase vehicle utilization. Businesses that ship large volumes can achieve substantial cost savings through packaging optimization initiatives. The goal is to select packaging that snugly accommodates the product while meeting protective requirements, without adding unnecessary bulk.",
+          "semantic_tags": ["packaging optimization", "cost reduction", "oversized boxes", "environmental impact"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "3", "topic": "Packaging", "subtopic": "Cost Optimization" }
+        }
+      ]
+    },
+    {
+      "section_id": "S5",
+      "section_title": "Dimensional Weight in Air and Ground Transportation",
+      "section_summary": "Explains why dimensional weight is especially important in air transportation and how it also applies to ground transportation networks.",
+      "keywords": ["air transportation", "ground transportation", "air freight", "cargo space", "express delivery"],
+      "content": [
+        {
+          "content_id": "S5-C1",
+          "content_type": "paragraph",
+          "heading": "Dimensional Weight in Air Transportation",
+          "paragraph": "Air transportation is particularly sensitive to dimensional weight because aircraft cargo space is limited and expensive. Air carriers often reach volume capacity before reaching maximum weight capacity, and large lightweight shipments consume valuable aircraft space while reducing revenue opportunities. As a result, dimensional weight pricing is widely used in air freight operations. Express delivery services, international air shipments, and premium transportation options frequently rely on dimensional weight calculations to determine fair pricing.",
+          "semantic_tags": ["air freight", "air transportation", "volume capacity", "express delivery"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "3", "topic": "Transportation Modes", "subtopic": "Air" }
+        },
+        {
+          "content_id": "S5-C2",
+          "content_type": "paragraph",
+          "heading": "Dimensional Weight in Ground Transportation",
+          "paragraph": "Ground transportation networks also apply dimensional weight principles because delivery vehicles, trailers, and sorting facilities have finite capacity. Large packages can reduce the number of shipments that can be transported within a single vehicle. By incorporating dimensional weight into pricing, logistics providers encourage efficient package sizing and improve transportation resource utilization. This contributes to lower operational costs and better network performance across the entire ground delivery system.",
+          "semantic_tags": ["ground transportation", "delivery vehicles", "trailer capacity", "resource utilization"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "3", "topic": "Transportation Modes", "subtopic": "Ground" }
+        }
+      ]
+    },
+    {
+      "section_id": "S6",
+      "section_title": "Benefits and Common Customer Questions",
+      "section_summary": "Summarizes the benefits of dimensional weight pricing and answers commonly asked customer questions.",
+      "keywords": ["benefits", "fair pricing", "cargo utilization", "customer questions", "billable weight"],
+      "content": [
+        {
+          "content_id": "S6-C1",
+          "content_type": "paragraph",
+          "heading": "Benefits of Dimensional Weight Pricing",
+          "paragraph": "Dimensional weight pricing provides advantages for both logistics providers and customers. Key benefits include fair transportation pricing that reflects actual resource consumption, efficient cargo utilization across transportation modes, encouragement of better packaging practices, improved transportation planning, reduced wasted space in vehicles and facilities, enhanced network efficiency, and more accurate cost allocation. Although some customers initially view dimensional weight as an additional charge, it actually supports sustainable and efficient logistics operations by ensuring that pricing reflects the true cost of transporting each package.",
+          "semantic_tags": ["benefits", "fair pricing", "efficiency", "sustainability"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "3", "topic": "Benefits", "subtopic": "Dimensional Weight Benefits" }
+        },
+        {
+          "content_id": "S6-C2",
+          "content_type": "paragraph",
+          "heading": "Common Customer Questions About Dimensional Weight",
+          "paragraph": "Many customers encounter dimensional weight for the first time when shipping large packages and have common questions such as: Why is my billable weight higher than actual weight? How is dimensional weight calculated? Which dimensions are used in the formula? Can I reduce my dimensional weight? Why do air shipments use dimensional weight? Does dimensional weight apply to international shipments? Understanding these concepts helps customers make informed shipping decisions and avoid unexpected transportation charges. The answer in all cases begins with understanding that transportation costs must account for both physical weight and the volume of space a package occupies.",
+          "semantic_tags": ["customer questions", "billable weight", "FAQ", "dimensional weight understanding"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "3-4", "topic": "FAQs", "subtopic": "Customer Questions" }
+        }
+      ]
+    }
+  ]
+}

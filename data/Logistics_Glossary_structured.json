@@ -1,0 +1,259 @@
+{
+  "document_title": "Logistics Glossary",
+  "document_type": "Glossary",
+  "source": "Logistics_Glossary.docx",
+  "language": "English",
+  "created_at": "2024",
+  "sections": [
+    {
+      "section_id": "S1",
+      "section_title": "Shipment and Parties",
+      "section_summary": "Definitions of the core entities involved in a shipment: the shipment itself, consignment, carrier, shipper, and consignee.",
+      "keywords": ["shipment", "consignment", "carrier", "shipper", "consignee"],
+      "content": [
+        {
+          "content_id": "S1-C1",
+          "content_type": "definition",
+          "heading": "Shipment",
+          "paragraph": "A shipment refers to a package, parcel, document, or group of packages transported from one location to another through a shipping carrier such as FedEx. Every shipment is assigned a unique tracking number that allows customers and shipping providers to monitor its movement throughout the delivery process. A shipment may be domestic or international and can consist of a single package or multiple packages moving under the same shipping request.",
+          "semantic_tags": ["shipment", "tracking number", "domestic", "international"],
+          "important_entities": ["shipment", "FedEx"],
+          "references": [],
+          "metadata": { "page_number": "1", "topic": "Shipment", "subtopic": "Definition" }
+        },
+        {
+          "content_id": "S1-C2",
+          "content_type": "definition",
+          "heading": "Consignment",
+          "paragraph": "A consignment is a collection of goods or packages sent together from a shipper to a recipient. In logistics, the term describes an entire order transported under one shipping arrangement. A consignment may contain one or more packages and is treated as a single shipment for transportation and documentation purposes.",
+          "semantic_tags": ["consignment", "order", "logistics"],
+          "important_entities": ["consignment"],
+          "references": [],
+          "metadata": { "page_number": "1", "topic": "Shipment", "subtopic": "Consignment" }
+        },
+        {
+          "content_id": "S1-C3",
+          "content_type": "definition",
+          "heading": "Carrier",
+          "paragraph": "A carrier is the company responsible for transporting goods from the sender to the recipient through air, ground, rail, or sea methods. FedEx is an example of a carrier offering domestic and international shipping services. The carrier is responsible for handling, transporting, tracking, and delivering shipments according to the selected service level.",
+          "semantic_tags": ["carrier", "transportation", "FedEx"],
+          "important_entities": ["carrier", "FedEx"],
+          "references": [],
+          "metadata": { "page_number": "1", "topic": "Parties", "subtopic": "Carrier" }
+        },
+        {
+          "content_id": "S1-C4",
+          "content_type": "definition",
+          "heading": "Shipper",
+          "paragraph": "The shipper is the individual, business, or organization that sends a package or shipment. The shipper prepares the shipment, provides accurate shipping information, completes required documentation, and pays shipping charges unless another billing arrangement has been selected. The shipper is also responsible for ensuring that the package complies with shipping regulations and carrier requirements.",
+          "semantic_tags": ["shipper", "sender", "compliance", "billing"],
+          "important_entities": ["shipper"],
+          "references": [],
+          "metadata": { "page_number": "1", "topic": "Parties", "subtopic": "Shipper" }
+        },
+        {
+          "content_id": "S1-C5",
+          "content_type": "definition",
+          "heading": "Consignee",
+          "paragraph": "A consignee is the person, company, or organization designated to receive a shipment at its final destination. The consignee's name, address, and contact information appear on the shipping label and shipping documents. In international shipping, the consignee may also be responsible for paying customs duties, taxes, and import fees depending on the shipping terms selected.",
+          "semantic_tags": ["consignee", "recipient", "import duties", "shipping label"],
+          "important_entities": ["consignee"],
+          "references": [],
+          "metadata": { "page_number": "1", "topic": "Parties", "subtopic": "Consignee" }
+        }
+      ]
+    },
+    {
+      "section_id": "S2",
+      "section_title": "Shipping and Pickup Processes",
+      "section_summary": "Definitions related to transit time, pickup, drop-off, delivery, and delivery addresses.",
+      "keywords": ["transit time", "pickup", "drop-off", "delivery", "delivery address"],
+      "content": [
+        {
+          "content_id": "S2-C1",
+          "content_type": "definition",
+          "heading": "Transit Time",
+          "paragraph": "Transit time is the estimated amount of time required for a shipment to travel from its origin to its destination. It varies depending on factors such as the selected shipping service, distance, transportation method, customs clearance requirements, weather conditions, and operational delays. Carriers typically provide estimated transit times to help customers choose the most suitable shipping option.",
+          "semantic_tags": ["transit time", "delivery estimate", "service level"],
+          "important_entities": ["transit time"],
+          "references": [],
+          "metadata": { "page_number": "1", "topic": "Shipping Process", "subtopic": "Transit Time" }
+        },
+        {
+          "content_id": "S2-C2",
+          "content_type": "paragraph",
+          "heading": "Pickup and Drop-Off",
+          "paragraph": "A pickup is the process by which a carrier collects a shipment directly from the sender's location. Customers can schedule pickups through online portals, mobile applications, customer service representatives, or recurring pickup agreements. Drop-off refers to delivering a shipment to an authorized carrier location instead of requesting a pickup. Customers can take labeled packages to shipping centers, retail partner locations, authorized outlets, or drop boxes. Drop-off services allow shipments to enter the carrier's transportation network immediately.",
+          "semantic_tags": ["pickup", "drop-off", "shipping center", "scheduled pickup"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "1", "topic": "Shipping Process", "subtopic": "Pickup and Drop-Off" }
+        },
+        {
+          "content_id": "S2-C3",
+          "content_type": "paragraph",
+          "heading": "Delivery and Delivery Address",
+          "paragraph": "Delivery is the final stage of the shipping process in which a shipment reaches its intended recipient. Once delivery is completed, the carrier updates the shipment status to reflect successful receipt. Depending on the service selected, delivery may require a signature, proof of delivery, or verification of recipient identity. A delivery address is the destination location where a shipment is intended to be delivered. Incorrect, incomplete, or outdated addresses can result in delivery delays, additional fees, delivery exceptions, or return-to-sender situations.",
+          "semantic_tags": ["delivery", "delivery address", "signature", "return to sender"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "1-2", "topic": "Shipping Process", "subtopic": "Delivery" }
+        }
+      ]
+    },
+    {
+      "section_id": "S3",
+      "section_title": "Tracking Statuses",
+      "section_summary": "Definitions of all major tracking status terms from shipment creation through final delivery.",
+      "keywords": ["tracking number", "In Transit", "Out for Delivery", "Delivered", "Picked Up", "At Local Facility", "Arrived at Facility"],
+      "content": [
+        {
+          "content_id": "S3-C1",
+          "content_type": "paragraph",
+          "heading": "Tracking Number and Shipment Information Sent",
+          "paragraph": "A tracking number is a unique identification code assigned to a shipment when it is created in the carrier's system. It allows customers, recipients, and customer service representatives to monitor shipment progress from pickup to final delivery. \"Shipment Information Sent\" is a tracking status indicating that the shipping label has been created and shipment details transmitted to the carrier, but the package has not yet been physically received. This status typically appears shortly after a shipment is prepared but before pickup or drop-off occurs.",
+          "semantic_tags": ["tracking number", "shipment information sent", "label created"],
+          "important_entities": ["tracking number"],
+          "references": [],
+          "metadata": { "page_number": "2", "topic": "Tracking", "subtopic": "Initial Statuses" }
+        },
+        {
+          "content_id": "S3-C2",
+          "content_type": "paragraph",
+          "heading": "Picked Up and In Transit",
+          "paragraph": "\"Picked Up\" confirms the carrier has physically received the shipment from the sender, meaning the package has entered the carrier's transportation network and is officially in transit. \"In Transit\" means the shipment is actively moving through the carrier's logistics network toward its destination. During this stage, the package may travel through multiple sorting facilities, transportation hubs, airports, and distribution centers. The shipment remains in transit until it reaches the local delivery facility responsible for final delivery.",
+          "semantic_tags": ["Picked Up", "In Transit", "transportation network", "sorting facility"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "2", "topic": "Tracking", "subtopic": "Transit Statuses" }
+        },
+        {
+          "content_id": "S3-C3",
+          "content_type": "paragraph",
+          "heading": "Facility Arrival, Departure, and Local Facility",
+          "paragraph": "\"Arrived at Facility\" indicates the shipment has reached a carrier-operated sorting or distribution center where packages are scanned, sorted, and prepared for the next transportation stage. Multiple facility arrival scans may occur as the shipment moves through the network. \"Departed Facility\" means the shipment has left a processing center and is traveling to the next destination. \"At Local Facility\" indicates the shipment has arrived at the distribution center responsible for final delivery, usually appearing shortly before the package is loaded onto a delivery vehicle.",
+          "semantic_tags": ["Arrived at Facility", "Departed Facility", "At Local Facility", "sorting"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "2", "topic": "Tracking", "subtopic": "Facility Statuses" }
+        },
+        {
+          "content_id": "S3-C4",
+          "content_type": "paragraph",
+          "heading": "Out for Delivery and Delivered",
+          "paragraph": "\"Out for Delivery\" means the package has been loaded onto a delivery vehicle and is scheduled for delivery on the same day. Most deliveries occur within normal delivery hours for the service area. \"Delivered\" confirms the shipment has successfully reached its destination and has been handed over to the recipient, left at an authorized location, or signed for according to delivery requirements. The delivery record may include the delivery date, time, recipient name, and location where the package was left.",
+          "semantic_tags": ["Out for Delivery", "Delivered", "delivery confirmation"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "2", "topic": "Tracking", "subtopic": "Final Statuses" }
+        },
+        {
+          "content_id": "S3-C5",
+          "content_type": "paragraph",
+          "heading": "Proof of Delivery (POD), Delivery Exception, and Door Tag",
+          "paragraph": "Proof of Delivery (POD) is documentation confirming successful delivery, which may include the recipient's name, delivery timestamp, address, and an electronic signature image. Businesses often use POD records for auditing and shipment verification. A Delivery Exception is a status indicating that an unexpected event has delayed or prevented delivery due to causes such as incorrect addresses, customs delays, severe weather, or recipient unavailability. A door tag is a notice left by the delivery driver when a delivery attempt cannot be completed, providing instructions for scheduling redelivery or collecting the package.",
+          "semantic_tags": ["POD", "proof of delivery", "delivery exception", "door tag"],
+          "important_entities": ["POD", "delivery exception"],
+          "references": [],
+          "metadata": { "page_number": "2-3", "topic": "Tracking", "subtopic": "Special Statuses" }
+        },
+        {
+          "content_id": "S3-C6",
+          "content_type": "definition",
+          "heading": "Estimated Delivery Date and Tracking Status",
+          "paragraph": "The estimated delivery date is the carrier's prediction of when a shipment will arrive, based on service level, origin and destination, transportation schedules, customs processing requirements, and operational conditions. It may change if unexpected delays occur during transit. A tracking status is a system-generated update providing information about a shipment's current stage in the transportation process, helping customers understand package location, actions taken, and whether delivery issues require attention.",
+          "semantic_tags": ["estimated delivery date", "tracking status", "shipment visibility"],
+          "important_entities": ["estimated delivery date"],
+          "references": [],
+          "metadata": { "page_number": "3", "topic": "Tracking", "subtopic": "EDD and Status Updates" }
+        }
+      ]
+    },
+    {
+      "section_id": "S4",
+      "section_title": "Customs and International Trade Documents",
+      "section_summary": "Definitions of key customs and international shipping terms including clearance, commercial invoice, AWB, HS code, and trade documents.",
+      "keywords": ["customs clearance", "commercial invoice", "air waybill", "HS code", "country of origin", "certificate of origin", "packing list"],
+      "content": [
+        {
+          "content_id": "S4-C1",
+          "content_type": "definition",
+          "heading": "Customs Clearance",
+          "paragraph": "Customs clearance is the process through which goods entering or leaving a country are reviewed and approved by government customs authorities. Officials verify shipment documents, assess duties and taxes, and ensure that goods comply with local regulations. A shipment cannot proceed to final delivery until customs clearance has been completed successfully.",
+          "semantic_tags": ["customs clearance", "import", "export", "duties", "compliance"],
+          "important_entities": ["customs clearance"],
+          "references": [],
+          "metadata": { "page_number": "3", "topic": "Customs", "subtopic": "Clearance" }
+        },
+        {
+          "content_id": "S4-C2",
+          "content_type": "definition",
+          "heading": "Commercial Invoice and Air Waybill (AWB)",
+          "paragraph": "A Commercial Invoice is one of the most important documents for international shipments. It provides detailed information about the goods being shipped, including shipper and recipient details, product descriptions, quantity, value, country of origin, and purpose of export. Customs authorities use it to determine applicable duties, taxes, and import requirements. An Air Waybill (AWB) is the primary shipping document for air freight, serving as a transportation contract containing shipment details such as origin, destination, package information, and tracking references. The AWB does not represent ownership of goods but acts as an official shipment record.",
+          "semantic_tags": ["commercial invoice", "AWB", "air waybill", "customs documentation"],
+          "important_entities": ["commercial invoice", "AWB"],
+          "references": [],
+          "metadata": { "page_number": "3", "topic": "Customs", "subtopic": "Core Documents" }
+        },
+        {
+          "content_id": "S4-C3",
+          "content_type": "definition",
+          "heading": "Harmonized System (HS) Code and Country of Origin",
+          "paragraph": "A Harmonized System (HS) Code is an internationally standardized numerical code used to classify products traded across international borders. Customs authorities use HS Codes to determine duty rates, tax obligations, and import restrictions. Providing an incorrect HS Code may result in customs delays, additional charges, or regulatory penalties. Country of Origin refers to the nation where a product was manufactured or substantially transformed, which customs authorities use to determine trade agreement eligibility, duty rates, and import restrictions.",
+          "semantic_tags": ["HS code", "country of origin", "product classification", "duty rates"],
+          "important_entities": ["HS Code", "country of origin"],
+          "references": [],
+          "metadata": { "page_number": "3", "topic": "Customs", "subtopic": "Classification" }
+        },
+        {
+          "content_id": "S4-C4",
+          "content_type": "paragraph",
+          "heading": "Certificate of Origin, Proforma Invoice, and Packing List",
+          "paragraph": "A Certificate of Origin is a document certifying the country where goods were manufactured or produced, used by some countries to determine trade agreement eligibility and import restrictions. A Proforma Invoice is a preliminary document provided before shipment outlining goods, estimated value, and transaction details, commonly used for samples, gifts, or non-commercial shipments. A Packing List provides a detailed description of a shipment's contents including package quantities, dimensions, weights, and packaging details. While it does not replace a Commercial Invoice, it assists customs officials, carriers, and recipients in verifying shipment contents.",
+          "semantic_tags": ["certificate of origin", "proforma invoice", "packing list", "documentation"],
+          "important_entities": ["certificate of origin", "packing list"],
+          "references": [],
+          "metadata": { "page_number": "3-4", "topic": "Customs", "subtopic": "Supporting Documents" }
+        },
+        {
+          "content_id": "S4-C5",
+          "content_type": "paragraph",
+          "heading": "Electronic Export Information (EEI)",
+          "paragraph": "Electronic Export Information (EEI) is an electronic filing submitted to government export authorities for certain international shipments. It contains details about the exported goods, their value, destination, and exporter information. EEI filings are typically required when shipments exceed specific value thresholds or involve controlled products.",
+          "semantic_tags": ["EEI", "electronic export", "export filing", "controlled products"],
+          "important_entities": ["EEI"],
+          "references": [],
+          "metadata": { "page_number": "4", "topic": "Customs", "subtopic": "Export Documentation" }
+        }
+      ]
+    },
+    {
+      "section_id": "S5",
+      "section_title": "Duties, Taxes, and Shipping Terms",
+      "section_summary": "Definitions of import duties, VAT, GST, DDP, DAP, and other financial terms related to international shipping.",
+      "keywords": ["duties", "import taxes", "VAT", "GST", "DDP", "DAP", "delivered duty paid"],
+      "content": [
+        {
+          "content_id": "S5-C1",
+          "content_type": "paragraph",
+          "heading": "Duties and Import Taxes",
+          "paragraph": "Duties are taxes imposed by a government on imported goods entering a country. Duty rates vary depending on the product type, HS Code classification, declared value, and trade agreements between countries. Import taxes are government charges applied to goods entering a country. Common examples include Value Added Tax (VAT), Goods and Services Tax (GST), and other local import taxes. These charges are typically calculated based on the declared value of goods, shipping costs, insurance costs, and applicable duties. Import duties are generally collected before goods are released from customs.",
+          "semantic_tags": ["duties", "import taxes", "VAT", "GST", "customs fees"],
+          "important_entities": ["duties", "VAT", "GST"],
+          "references": [],
+          "metadata": { "page_number": "4", "topic": "Financial Terms", "subtopic": "Duties and Taxes" }
+        },
+        {
+          "content_id": "S5-C2",
+          "content_type": "paragraph",
+          "heading": "Delivered Duty Paid (DDP) and Delivery at Place (DAP)",
+          "paragraph": "Delivered Duty Paid (DDP) is an international shipping arrangement in which the shipper assumes responsibility for all transportation costs, customs duties, taxes, and clearance fees. Under DDP terms, the recipient receives the shipment without paying additional import-related charges upon delivery. Delivery at Place (DAP) is a shipping arrangement where the shipper pays transportation costs while the recipient is responsible for import duties, taxes, and customs-related charges. Under DAP, the shipment may be held by customs until these charges are paid by the recipient.",
+          "semantic_tags": ["DDP", "DAP", "shipping terms", "incoterms", "duty responsibility"],
+          "important_entities": ["DDP", "DAP"],
+          "references": [],
+          "metadata": { "page_number": "4", "topic": "Financial Terms", "subtopic": "Shipping Terms" }
+        }
+      ]
+    }
+  ]
+}

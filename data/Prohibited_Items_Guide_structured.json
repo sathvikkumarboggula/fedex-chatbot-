@@ -1,0 +1,291 @@
+{
+  "document_title": "Prohibited Items Guide",
+  "document_type": "Compliance Guide",
+  "source": "Prohibited_Items_Guide.docx",
+  "language": "English",
+  "created_at": "2024",
+  "sections": [
+    {
+      "section_id": "S1",
+      "section_title": "Introduction and Risk Framework",
+      "section_summary": "Defines prohibited items, explains why they are prohibited, and classifies prohibited products by the type of risk they present.",
+      "keywords": ["prohibited items", "safety risk", "regulatory compliance", "transportation risk", "security"],
+      "content": [
+        {
+          "content_id": "S1-C1",
+          "content_type": "paragraph",
+          "heading": "What Are Prohibited Items and Why They Exist",
+          "paragraph": "A prohibited item is any product, substance, material, or object that cannot be accepted for transportation through a logistics network because it may create safety, security, legal, environmental, or regulatory risks. Prohibited item policies are developed based on international transportation regulations, government laws, aviation safety standards, customs requirements, and industry best practices. These policies help prevent accidents, injuries, fires, explosions, environmental contamination, criminal activities, and regulatory violations. If a prohibited item is discovered during shipment processing, the package may be rejected, returned to the sender, confiscated by authorities, delayed for investigation, or destroyed according to applicable laws. Customers are therefore responsible for ensuring that their shipments comply with all transportation requirements before shipping.",
+          "semantic_tags": ["prohibited items", "policy", "safety", "compliance"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "1", "topic": "Prohibited Items", "subtopic": "Introduction" }
+        },
+        {
+          "content_id": "S1-C2",
+          "content_type": "paragraph",
+          "heading": "Transportation Risk Categories",
+          "paragraph": "Not all prohibited items are dangerous for the same reasons. Transportation companies classify prohibited products according to the risks they present. Safety risks include items that may cause injuries, fires, explosions, poisoning, or accidents. Security risks include items that may be used for criminal activity, terrorism, or unlawful purposes. Regulatory risks include items that violate government regulations, customs requirements, or international transportation laws. Environmental risks cover items that may contaminate air, water, soil, or ecosystems if released during transportation. Health risks include items that may expose workers or the public to disease, infection, radiation, or toxic substances. Understanding these categories helps explain why transportation restrictions exist.",
+          "semantic_tags": ["risk categories", "safety risk", "security risk", "environmental risk", "health risk"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "1", "topic": "Risk Categories", "subtopic": "Classification" }
+        }
+      ]
+    },
+    {
+      "section_id": "S2",
+      "section_title": "Explosives, Weapons, and Dangerous Materials",
+      "section_summary": "Covers explosives, fireworks, firearms, and ammunition as prohibited or heavily regulated items.",
+      "keywords": ["explosives", "fireworks", "firearms", "ammunition", "dangerous goods"],
+      "content": [
+        {
+          "content_id": "S2-C1",
+          "content_type": "paragraph",
+          "heading": "Explosives and Fireworks",
+          "paragraph": "Explosives are among the most dangerous materials that can enter a transportation network because they are designed to release energy rapidly, creating pressure waves, heat, and destructive force. Examples include dynamite, blasting caps, military explosives, detonation devices, and explosive powders. Even small quantities can cause significant damage if accidentally activated. Aircraft cargo compartments, delivery vehicles, warehouses, and sorting facilities are not designed to handle unauthorized explosives, so most standard shipping services prohibit them entirely. Fireworks and pyrotechnic devices such as firecrackers, roman candles, aerial shells, and display fireworks also contain explosive and combustible compounds. Because packages pass through multiple transportation stages where heat, impact, and vibration may occur, the risk of accidental ignition is unacceptable in standard networks.",
+          "semantic_tags": ["explosives", "fireworks", "pyrotechnics", "combustible"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "2", "topic": "Explosives", "subtopic": "Explosives and Fireworks" }
+        },
+        {
+          "content_id": "S2-C2",
+          "content_type": "paragraph",
+          "heading": "Firearms and Ammunition",
+          "paragraph": "Firearms are heavily regulated products subject to national and international laws. Examples include handguns, rifles, shotguns, and certain firearm components. Unauthorized transportation of firearms may violate local laws and create security concerns; they are therefore prohibited from standard consumer shipping channels unless specific regulatory requirements are satisfied. When firearm transportation is permitted, additional documentation, identity verification, packaging standards, and approval procedures may be required. Ammunition is similarly restricted because it contains explosive components designed to discharge projectiles. It may be sensitive to impact, temperature changes, or improper handling, and many standard shipping services prohibit ammunition unless special dangerous goods procedures are followed.",
+          "semantic_tags": ["firearms", "ammunition", "weapons", "dangerous goods procedures"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "2", "topic": "Weapons", "subtopic": "Firearms and Ammunition" }
+        }
+      ]
+    },
+    {
+      "section_id": "S3",
+      "section_title": "Drugs, Controlled Substances, and Counterfeit Goods",
+      "section_summary": "Covers the prohibition of illegal drugs, unauthorized controlled medications, and counterfeit products.",
+      "keywords": ["illegal drugs", "narcotics", "controlled medications", "counterfeit goods", "intellectual property"],
+      "content": [
+        {
+          "content_id": "S3-C1",
+          "content_type": "paragraph",
+          "heading": "Illegal Drugs and Unauthorized Controlled Medications",
+          "paragraph": "Illegal drugs and unauthorized controlled substances such as cocaine, heroin, methamphetamine, and illicit synthetic drugs are strictly prohibited from transportation networks. Transportation companies cooperate with law enforcement agencies to prevent drug trafficking, and packages suspected of containing illegal drugs may be inspected, seized, and reported to authorities. Customers attempting to ship illegal substances may face criminal investigations, fines, and imprisonment. Certain prescription medications are also legally regulated and may require special documentation before transportation. Unauthorized shipment of controlled medications may result in shipment rejection, confiscation, or legal action. Customers should verify pharmaceutical transportation requirements before shipping regulated medicines.",
+          "semantic_tags": ["illegal drugs", "narcotics", "prescription medications", "controlled substances"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "2-3", "topic": "Drugs", "subtopic": "Illegal and Controlled Substances" }
+        },
+        {
+          "content_id": "S3-C2",
+          "content_type": "paragraph",
+          "heading": "Counterfeit Goods",
+          "paragraph": "Counterfeit goods are products that illegally imitate legitimate brands, trademarks, copyrights, patents, or intellectual property. Examples include fake designer products, counterfeit electronics, unauthorized branded clothing, pirated software, and fake luxury watches. Counterfeit goods harm legitimate businesses and violate intellectual property laws. Customs agencies actively inspect shipments for counterfeit merchandise, and products suspected of being counterfeit may be seized, destroyed, or used as evidence during investigations. Transportation providers prohibit counterfeit goods to support legal compliance and protect consumers.",
+          "semantic_tags": ["counterfeit goods", "intellectual property", "fake products", "customs seizure"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "3", "topic": "Counterfeit Goods", "subtopic": "Definition and Consequences" }
+        }
+      ]
+    },
+    {
+      "section_id": "S4",
+      "section_title": "Hazardous Chemicals and Flammable Materials",
+      "section_summary": "Covers the transportation restrictions on hazardous chemicals, toxic substances, corrosive materials, and flammable liquids and solids.",
+      "keywords": ["hazardous chemicals", "toxic substances", "corrosive materials", "flammable liquids", "flammable solids"],
+      "content": [
+        {
+          "content_id": "S4-C1",
+          "content_type": "paragraph",
+          "heading": "Hazardous Chemicals and Toxic Substances",
+          "paragraph": "Hazardous chemicals such as toxic industrial solvents, reactive compounds, laboratory chemicals, and corrosive industrial cleaning agents may leak, react with other materials, ignite, release toxic fumes, or contaminate facilities during transportation. Some hazardous chemicals may be transported under strict dangerous goods regulations, while others are completely prohibited from standard shipping services. Toxic substances can cause injury, illness, poisoning, or death through inhalation, ingestion, or skin contact, and accidental exposure may endanger workers, recipients, emergency responders, and the public. Because of these risks, toxic substances are heavily regulated and often prohibited from standard transportation networks.",
+          "semantic_tags": ["hazardous chemicals", "toxic substances", "dangerous goods", "chemical safety"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "3", "topic": "Hazardous Materials", "subtopic": "Chemicals and Toxics" }
+        },
+        {
+          "content_id": "S4-C2",
+          "content_type": "paragraph",
+          "heading": "Corrosive Materials and Flammable Substances",
+          "paragraph": "Corrosive materials such as sulfuric acid, hydrochloric acid, strong alkalis, and industrial corrosive cleaners are capable of damaging living tissue, packaging materials, transportation equipment, and infrastructure. Leaks involving corrosive materials can cause serious injuries and significant property damage, requiring strict restrictions and specialized handling procedures where permitted. Flammable liquids such as gasoline, kerosene, paint thinner, and fuel products ignite easily and create significant fire hazards; a single leak may create conditions for fires, explosions, and severe transportation accidents. Certain solid materials such as reactive metal powders and combustible industrial materials can also ignite under heat, friction, moisture, or chemical reactions, and are therefore subject to transportation restrictions.",
+          "semantic_tags": ["corrosive materials", "flammable liquids", "gasoline", "fire hazard"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "3-4", "topic": "Hazardous Materials", "subtopic": "Corrosive and Flammable" }
+        }
+      ]
+    },
+    {
+      "section_id": "S5",
+      "section_title": "Lithium Batteries and Electronic Devices",
+      "section_summary": "Covers transportation regulations for lithium batteries, power banks, and battery-powered devices.",
+      "keywords": ["lithium batteries", "lithium-ion", "lithium metal", "power banks", "battery safety"],
+      "content": [
+        {
+          "content_id": "S5-C1",
+          "content_type": "paragraph",
+          "heading": "Lithium Battery Transportation Regulations",
+          "paragraph": "Lithium batteries are among the most commonly transported products in modern logistics networks, found in smartphones, laptops, tablets, smartwatches, cameras, medical devices, power banks, and electric tools. Despite their widespread use, lithium batteries present significant transportation risks because they can generate heat, catch fire, or explode if damaged, improperly packaged, or exposed to extreme conditions. Lithium-Ion batteries are rechargeable and commonly found in smartphones, laptops, tablets, electric vehicles, and power tools. Lithium Metal batteries are non-rechargeable and used in watches, medical devices, security systems, and specialized equipment. Damaged, defective, recalled, or improperly packaged lithium batteries are often prohibited from transportation, and logistics providers require strict compliance with packaging, labeling, and documentation requirements.",
+          "semantic_tags": ["lithium batteries", "lithium-ion", "lithium metal", "battery safety", "packaging requirements"],
+          "important_entities": ["lithium-ion", "lithium metal"],
+          "references": [],
+          "metadata": { "page_number": "4", "topic": "Lithium Batteries", "subtopic": "Regulations" }
+        },
+        {
+          "content_id": "S5-C2",
+          "content_type": "paragraph",
+          "heading": "Power Banks and Portable Chargers",
+          "paragraph": "Power banks contain lithium-ion batteries and are frequently involved in transportation restrictions. These mobile charging devices, portable power stations, and battery backup units may overheat or short-circuit if damaged during transportation. Many transportation providers impose additional restrictions on power banks, especially in air transportation networks. Customers should verify battery capacity limits and packaging requirements before shipping such devices.",
+          "semantic_tags": ["power banks", "portable charger", "air transportation", "battery restrictions"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "4", "topic": "Lithium Batteries", "subtopic": "Power Banks" }
+        }
+      ]
+    },
+    {
+      "section_id": "S6",
+      "section_title": "Radioactive, Biological, and Medical Materials",
+      "section_summary": "Covers the strict restrictions on radioactive materials, infectious biological substances, and regulated medical and pharmaceutical products.",
+      "keywords": ["radioactive materials", "biological substances", "infectious", "Category A", "pharmaceuticals"],
+      "content": [
+        {
+          "content_id": "S6-C1",
+          "content_type": "paragraph",
+          "heading": "Radioactive and Biological Materials",
+          "paragraph": "Radioactive materials emit ionizing radiation and may pose serious health, environmental, and security risks if improperly handled. Transportation of radioactive substances requires specialized packaging, regulatory approval, monitoring procedures, and trained personnel, and many are completely prohibited from standard transportation services. Biological materials can contain microorganisms capable of causing disease in humans or animals. Transportation of biological substances is heavily regulated because accidental release may expose workers, recipients, or the public to health risks. Some biological materials require specialized containers, triple-layer packaging, hazard labels, and regulatory documentation. Category A infectious substances, which are capable of causing permanent disability, life-threatening illness, or fatal disease, are prohibited from most standard transportation services.",
+          "semantic_tags": ["radioactive materials", "biological substances", "infectious", "Category A", "specialized packaging"],
+          "important_entities": ["Category A"],
+          "references": [],
+          "metadata": { "page_number": "4-5", "topic": "Specialized Materials", "subtopic": "Radioactive and Biological" }
+        },
+        {
+          "content_id": "S6-C2",
+          "content_type": "paragraph",
+          "heading": "Medical Products and Pharmaceuticals",
+          "paragraph": "Medical products are generally allowed when shipped according to applicable regulations; however, controlled medications, experimental drugs, unapproved pharmaceuticals, and restricted prescription medicines may be prohibited or restricted. Customers shipping medical products must comply with healthcare regulations, pharmaceutical laws, import and export requirements, and temperature-control requirements. Failure to meet these requirements may result in shipment rejection or regulatory action.",
+          "semantic_tags": ["medical products", "pharmaceuticals", "controlled medications", "temperature control"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "5", "topic": "Specialized Materials", "subtopic": "Pharmaceuticals" }
+        }
+      ]
+    },
+    {
+      "section_id": "S7",
+      "section_title": "Regulated Consumer Products",
+      "section_summary": "Covers transportation restrictions for alcohol, tobacco, currency, precious metals, live animals, and perishable goods.",
+      "keywords": ["alcohol", "tobacco", "currency", "precious metals", "live animals", "perishables"],
+      "content": [
+        {
+          "content_id": "S7-C1",
+          "content_type": "paragraph",
+          "heading": "Alcohol and Tobacco Products",
+          "paragraph": "Alcohol transportation is regulated in many countries due to taxation, age restrictions, licensing requirements, and customs regulations. Shipping alcoholic beverages such as beer, wine, whiskey, and spirits often requires special licenses, age verification, regulatory compliance, and additional documentation. Some destinations prohibit alcohol shipments entirely, and customers should verify destination-country regulations before shipping. Tobacco products including cigarettes, cigars, pipe tobacco, and nicotine products are similarly regulated to control taxation, public health concerns, and age restrictions. Unauthorized tobacco shipments may be seized by customs or rejected by transportation providers.",
+          "semantic_tags": ["alcohol", "tobacco", "age restrictions", "licensing", "customs"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "5", "topic": "Consumer Products", "subtopic": "Alcohol and Tobacco" }
+        },
+        {
+          "content_id": "S7-C2",
+          "content_type": "paragraph",
+          "heading": "Currency, Precious Metals, and High-Value Items",
+          "paragraph": "Shipping large amounts of currency such as cash, banknotes, coins, and negotiable instruments creates significant security risks because such shipments are vulnerable to theft, fraud, and criminal activity, leading many transportation providers to prohibit or heavily restrict them. Customers should explore secure financial transfer alternatives. Precious metals, gemstones, jewelry, and rare collectibles may be subject to declared value limits, special insurance requirements, enhanced security procedures, and restricted transportation options.",
+          "semantic_tags": ["currency", "cash", "precious metals", "high-value items", "security"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "5-6", "topic": "Consumer Products", "subtopic": "Currency and Valuables" }
+        },
+        {
+          "content_id": "S7-C3",
+          "content_type": "paragraph",
+          "heading": "Live Animals, Wildlife, and Perishable Goods",
+          "paragraph": "Most standard parcel transportation networks do not accept live animals. Specialized animal transportation programs may exist for approved shipments meeting regulatory, veterinary, and welfare requirements. International laws also protect many wildlife species from illegal trade under conservation treaties, and transportation of protected species such as endangered animals, exotic reptiles, and wildlife-derived products may result in severe penalties and criminal prosecution. Perishable goods such as fresh food, meat, seafood, dairy products, flowers, and certain pharmaceuticals may be transported under approved temperature-control conditions, but improper handling may result in spoilage, contamination, health risks, and shipment rejection.",
+          "semantic_tags": ["live animals", "wildlife", "protected species", "perishable goods", "CITES"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "6", "topic": "Consumer Products", "subtopic": "Animals and Perishables" }
+        }
+      ]
+    },
+    {
+      "section_id": "S8",
+      "section_title": "International Restrictions and Customs-Prohibited Items",
+      "section_summary": "Covers country-specific import restrictions and items commonly seized by customs authorities internationally.",
+      "keywords": ["international restrictions", "customs prohibited", "import regulations", "country regulations"],
+      "content": [
+        {
+          "content_id": "S8-C1",
+          "content_type": "paragraph",
+          "heading": "International and Customs-Prohibited Items",
+          "paragraph": "International shipments face additional restrictions because each country maintains its own import and export regulations. Products permitted in one country may be prohibited in another, including agricultural goods, food products, pharmaceuticals, chemicals, weapons, and biological materials. Customs authorities inspect shipments to ensure compliance and may seize shipments, destroy prohibited goods, impose penalties, and conduct investigations. Commonly restricted customs imports include illegal drugs, counterfeit products, unauthorized pharmaceuticals, restricted agricultural products, certain chemicals, and protected wildlife products. Customers should review destination-country regulations before creating international shipments.",
+          "semantic_tags": ["international restrictions", "customs prohibited", "country-specific regulations"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "6-7", "topic": "International Shipping", "subtopic": "Customs Restrictions" }
+        },
+        {
+          "content_id": "S8-C2",
+          "content_type": "paragraph",
+          "heading": "Consequences of International Violations",
+          "paragraph": "Violations involving prohibited international shipments may result in customs seizure, regulatory penalties, shipment destruction, export restrictions, criminal investigations, and permanent shipping account suspension. International transportation compliance is therefore essential for businesses and individual customers alike. Customers should verify product eligibility, destination regulations, packaging requirements, documentation requirements, customs restrictions, and transportation provider policies before shipping any potentially restricted item.",
+          "semantic_tags": ["international violations", "penalties", "account suspension", "compliance"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "7", "topic": "International Shipping", "subtopic": "Violations and Consequences" }
+        }
+      ]
+    },
+    {
+      "section_id": "S9",
+      "section_title": "Compliance, Role-Based Guidance, and FAQs",
+      "section_summary": "Provides guidance for individual customers, business shippers, operations staff, case studies, common mistakes, and FedAssist chatbot rules.",
+      "keywords": ["compliance", "customer guidance", "business shipper", "operations staff", "FedAssist", "FAQ"],
+      "content": [
+        {
+          "content_id": "S9-C1",
+          "content_type": "paragraph",
+          "heading": "Guidance for Individual Customers and Recipients",
+          "paragraph": "Customers should never assume a product can be shipped simply because it is commonly available for purchase; many legally sold products may still be restricted during transportation. Before shipping, customers should verify item eligibility, review prohibited item policies, check destination-country restrictions, declare shipment contents accurately, follow packaging requirements, and provide correct documentation. Recipients should monitor shipment tracking, cooperate with customs authorities, and communicate with senders to resolve documentation or compliance issues when a shipment is delayed.",
+          "semantic_tags": ["customer compliance", "pre-shipment verification", "recipient responsibilities"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "7", "topic": "Compliance Guidance", "subtopic": "Customers" }
+        },
+        {
+          "content_id": "S9-C2",
+          "content_type": "paragraph",
+          "heading": "Guidance for Business Shippers and Operations Staff",
+          "paragraph": "Businesses should establish internal procedures for product classification, shipment verification, regulatory compliance, employee training, documentation management, and dangerous goods handling. Companies should conduct periodic audits to ensure employees correctly identify restricted products before shipments enter the transportation network. Operations staff must be able to identify prohibited products, explain shipping restrictions, review documentation, escalate compliance concerns, and follow dangerous goods procedures. If prohibited items are discovered, employees should follow established escalation procedures rather than attempting to resolve situations independently.",
+          "semantic_tags": ["business compliance", "employee training", "escalation procedures", "dangerous goods"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "7-8", "topic": "Compliance Guidance", "subtopic": "Businesses and Staff" }
+        },
+        {
+          "content_id": "S9-C3",
+          "content_type": "faq",
+          "question": "What happens if prohibited items are discovered in a shipment?",
+          "answer": "The shipment may be rejected, returned to the sender, confiscated, delayed for investigation, or reported to authorities depending on the nature of the prohibited item and applicable laws and regulations.",
+          "semantic_tags": ["prohibited items", "discovery", "consequences"],
+          "important_entities": [],
+          "references": [],
+          "metadata": { "page_number": "8", "topic": "FAQs", "subtopic": "Prohibited Item Discovery" }
+        },
+        {
+          "content_id": "S9-C4",
+          "content_type": "paragraph",
+          "heading": "FedAssist Chatbot Guidelines for Prohibited Items",
+          "paragraph": "The FedAssist chatbot should explain prohibited item categories in general terms, help users understand why restrictions exist, encourage customers to verify item eligibility before shipping, describe common documentation requirements for regulated products, and provide educational guidance on international regulations. The chatbot should never provide legal advice or make compliance determinations on behalf of regulatory agencies. For unusual products, hazardous materials, or complex international compliance questions, the chatbot should recommend contacting customer support.",
+          "semantic_tags": ["FedAssist", "chatbot rules", "prohibited items guidance", "escalation"],
+          "important_entities": ["FedAssist"],
+          "references": [],
+          "metadata": { "page_number": "8", "topic": "FedAssist", "subtopic": "Chatbot Rules" }
+        }
+      ]
+    }
+  ]
+}
