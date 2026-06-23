@@ -8,10 +8,9 @@ langchain-core
 langchain-text-splitters
 
 langchain-nvidia-ai-endpoints
+langchain-chroma
 
-faiss-cpu
-
-sentence-transformers
+chromadb
 
 pypdf
 
@@ -19,3 +18,5 @@ numpy
 pandas
 
 bcrypt
+
+faiss-cpu
