@@ -1,27 +1,21 @@
-streamlit==1.57.0
+streamlit
 
-Flask==3.0.3
+python-dotenv
 
-langchain==0.2.16
-langchain-community==0.2.16
-langchain-core==0.2.43
-langchain-text-splitters==0.2.4
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
 
-langchain-nvidia-ai-endpoints==0.1.7
+langchain-nvidia-ai-endpoints
 
-faiss-cpu==1.14.3
+faiss-cpu
 
-sentence-transformers==3.3.1
-transformers==4.50.3
-huggingface-hub==0.26.2
+sentence-transformers
 
-pypdf==4.3.1
+pypdf
 
-numpy==1.26.4
-pandas==2.3.3
+numpy
+pandas
 
-python-dotenv==1.0.1
-
-bcrypt==5.0.0
-
-mysql-connector-python==9.7.0
+bcrypt
