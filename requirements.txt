@@ -1,22 +1,26 @@
-streamlit
+streamlit==1.57.0
+Flask==3.0.3
 
-python-dotenv
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-core==0.2.43
+langchain-text-splitters==0.2.4
 
-langchain
-langchain-community
-langchain-core
-langchain-text-splitters
+langchain-nvidia-ai-endpoints==0.1.7
 
-langchain-nvidia-ai-endpoints
-langchain-chroma
+chromadb==0.5.23
+langchain-chroma==0.1.4
 
-chromadb
+faiss-cpu==1.14.3
 
-pypdf
+sentence-transformers==3.3.1
+transformers==4.50.3
 
-numpy
-pandas
+protobuf==3.20.3
 
-bcrypt
+pypdf==4.3.1
+numpy==1.26.4
+pandas==2.3.3
 
-faiss-cpu
+python-dotenv==1.0.1
+bcrypt==5.0.0
