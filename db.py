@@ -5,7 +5,7 @@ import mysql.connector
 # ==========================================
 
 conn = mysql.connector.connect(
-    host="localhost",
+    host="your-online-mysql-host"
     user="root",
     password="root",
     database="fedex_chatbot"
