@@ -8,14 +8,15 @@ langchain-text-splitters==0.2.4
 
 langchain-nvidia-ai-endpoints==0.1.7
 
-chromadb==0.5.23
-langchain-chroma==0.1.4
-
-protobuf==3.20.3
+chromadb==0.4.24
+langchain-chroma==0.1.2
 
 pypdf==4.3.1
+
 numpy==1.26.4
 pandas==2.3.3
 
 python-dotenv==1.0.1
 bcrypt==5.0.0
+
+protobuf==3.20.3
